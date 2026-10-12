@@ -51,7 +51,9 @@ reptile book a different tortoise pose or a box turtle instead.
 
 ## Open decisions
 
-- Title and author name for Volume 1.
+- Author name for Volume 1 (series title decided: **The Learning Dojo**; each
+  book is "The Learning Dojo: <subject>", e.g. *The Learning Dojo: Animals,
+  Volume 1*).
 - Cover art and back-cover copy.
 - Whether to add a copyright page and a "how to say it" pronunciation page.
 - Whether to print simplified Chinese alongside traditional for mainland readers.

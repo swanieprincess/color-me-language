@@ -1,6 +1,7 @@
 # Color Me Language
 
-Multilingual children's coloring books. Every page is one cute, cartoony animal
+Source files for **The Learning Dojo**, a series of multilingual children's
+coloring books. Every page is one cute, cartoony animal
 drawn as clean black line art, with its name in four scripts set in outline
 lettering so the words can be colored too:
 
@@ -18,7 +19,7 @@ as print-ready PDFs for Amazon KDP.
 
 | # | Title | Status | Pages |
 |---|-------|--------|-------|
-| 1 | Animals, Volume 1 | interior complete, cover pending | 32 |
+| 1 | The Learning Dojo: Animals, Volume 1 | interior complete, cover pending | 32 |
 | 2 | Under the Sea, Part 1 — Fish | planned | — |
 | 3 | Under the Sea, Part 2 — Crustaceans | planned | — |
 | 4 | Under the Sea, Part 3 — Other sea life | planned | — |
