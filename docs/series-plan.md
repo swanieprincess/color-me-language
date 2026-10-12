@@ -53,7 +53,8 @@ reptile book a different tortoise pose or a box turtle instead.
 
 - Series title: **The Learning Dojo**. Each book is "The Learning Dojo:
   <subject>", e.g. *The Learning Dojo: Animals, Volume 1*.
-- Author: **Swan Moon** (on every cover, title page and copyright page).
+- The author line is a pen name, used on every cover, title page and
+  copyright page. The pen name itself is still to be chosen.
 
 ## Open decisions
 
