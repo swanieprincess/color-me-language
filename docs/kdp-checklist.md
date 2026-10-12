@@ -9,7 +9,7 @@
 - [ ] Page count even (add a blank or notes page if odd).
 - [ ] Title page + copyright page at the front. KDP title: **The Learning Dojo**,
       subtitle **Animals, Volume 1** (series name: The Learning Dojo), author
-      line = the chosen pen name.
+      **Haku Tsuki** (pen name).
 - [ ] Cover: full-wrap PDF from `templates/cover.svg` (sized for 32 pages on white
       paper: spine 0.0721 in, document 17.3221 × 11.25 in). If the page count
       changes, re-run KDP's cover calculator and resize the spine. 300 dpi,
