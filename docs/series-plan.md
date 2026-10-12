@@ -49,11 +49,14 @@ horned lizard, frilled lizard, box turtle. Sea turtles stay in Under the Sea
 Part 3. The garden tortoise already appears in Animals Volume 1, so give the
 reptile book a different tortoise pose or a box turtle instead.
 
+## Decided
+
+- Series title: **The Learning Dojo**. Each book is "The Learning Dojo:
+  <subject>", e.g. *The Learning Dojo: Animals, Volume 1*.
+- Author: **Swan Moon** (on every cover, title page and copyright page).
+
 ## Open decisions
 
-- Author name for Volume 1 (series title decided: **The Learning Dojo**; each
-  book is "The Learning Dojo: <subject>", e.g. *The Learning Dojo: Animals,
-  Volume 1*).
 - Cover art and back-cover copy.
 - Whether to add a copyright page and a "how to say it" pronunciation page.
 - Whether to print simplified Chinese alongside traditional for mainland readers.
