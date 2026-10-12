@@ -1,0 +1,24 @@
+<!-- Color Me Language page template (Moda markup). Page 816x1056.
+     Replace {{EN}} {{KO}} {{JA}} {{ZH}} {{PAGE}}; the AnimalArt rectangle
+     receives the generated line art (3:4). -->
+<content>
+  <background fill="#ffffff"/>
+  <rectangle name="AnimalArt" x="48" y="48" width="720" height="960" corner-radius="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+  <column name="TagEN" x="36" y="36" width="300" height="112" fill="#ffffff" stroke="#111111" stroke-width="4" corner-radius="26" gap="0" padding="6" align="center" justify="center">
+    <text font-family="Fredoka" font-size="12" font-weight="700" color="#666666" text-align="center" letter-spacing="2" max-lines="1">ENGLISH</text>
+    <text name="WordEN" font-family="Fredoka" font-size="60" font-weight="600" color="#ffffff" stroke="#111111" stroke-width="2.5" text-align="center" max-lines="1">{{EN}}</text>
+  </column>
+  <column name="TagKO" x="480" y="36" width="300" height="112" fill="#ffffff" stroke="#111111" stroke-width="4" corner-radius="26" gap="0" padding="6" align="center" justify="center">
+    <text font-family="Fredoka" font-size="12" font-weight="700" color="#666666" text-align="center" letter-spacing="2" max-lines="1">KOREAN</text>
+    <text name="WordKO" font-family="Noto Sans KR" font-size="58" font-weight="700" color="#ffffff" stroke="#111111" stroke-width="2.5" text-align="center" max-lines="1">{{KO}}</text>
+  </column>
+  <column name="TagJA" x="36" y="908" width="300" height="112" fill="#ffffff" stroke="#111111" stroke-width="4" corner-radius="26" gap="0" padding="6" align="center" justify="center">
+    <text font-family="Fredoka" font-size="12" font-weight="700" color="#666666" text-align="center" letter-spacing="2" max-lines="1">JAPANESE</text>
+    <text name="WordJA" font-family="Noto Sans JP" font-size="56" font-weight="700" color="#ffffff" stroke="#111111" stroke-width="2.5" text-align="center" max-lines="1">{{JA}}</text>
+  </column>
+  <column name="TagZH" x="480" y="908" width="300" height="112" fill="#ffffff" stroke="#111111" stroke-width="4" corner-radius="26" gap="0" padding="6" align="center" justify="center">
+    <text font-family="Fredoka" font-size="12" font-weight="700" color="#666666" text-align="center" letter-spacing="2" max-lines="1">HANJA/CHINESE</text>
+    <text name="WordZH" font-family="Noto Sans TC" font-size="62" font-weight="700" color="#ffffff" stroke="#111111" stroke-width="2.5" text-align="center" max-lines="1">{{ZH}}</text>
+  </column>
+  <text name="PageNo" x="348" y="1024" width="120" height="24" font-family="Fredoka" font-size="13" font-weight="600" color="#888888" text-align="center" max-lines="1">{{PAGE}}</text>
+</content>
