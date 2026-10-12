@@ -57,6 +57,8 @@ books/<book-slug>/pages.csv      page manifest: order, animal, four words, trink
 docs/series-plan.md              the series and the scope of each book
 docs/art-direction.md            style, prompts, do/don't rules
 docs/kdp-checklist.md            what KDP needs before upload
-templates/page.moda.xml          the page layout markup
+templates/page.moda.xml          the page layout markup (Moda)
+templates/page.svg               the same layout for Inkscape
+docs/inkscape-workflow.md        vectorize the art, lay out, export print PDF
 tools/render_page.py             local HTML→PDF proof renderer (Playwright)
 ```
