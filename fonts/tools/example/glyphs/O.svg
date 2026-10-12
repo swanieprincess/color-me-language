@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="760" height="1000" viewBox="0 0 760 1000">
-  <g inkscape:groupmode="layer" id="GUIDES" inkscape:label="GUIDES"><rect x="0" y="0" width="760" height="1000" fill="#ffffff"/><line x1="0" y1="800" x2="760" y2="800" stroke="#f00" stroke-width="2"/></g>
-  <g inkscape:groupmode="layer" id="layerGlyph" inkscape:label="Glyph">
-    <path d="M 380 80 A 320 360 0 0 1 380 800 A 320 360 0 0 1 380 80 Z M 380 250 A 150 190 0 0 0 380 630 A 150 190 0 0 0 380 250 Z"/>
-  </g>
-</svg>

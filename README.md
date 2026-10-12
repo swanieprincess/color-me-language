@@ -63,8 +63,4 @@ templates/page.svg               the same layout for Inkscape
 templates/cover.svg              KDP full-wrap cover template (32 pages, white paper)
 docs/inkscape-workflow.md        vectorize the art, lay out, export print PDF
 tools/render_page.py             local HTML→PDF proof renderer (Playwright)
-fonts/README.md                  how the custom fonts are drawn (Inkscape) and built
-fonts/tools/build_font.py        SVG glyphs → .ttf / .woff2 + specimen
-fonts/tools/glyph_template.svg   the per-letter Inkscape template with metric guides
-fonts/learning-dojo/             the coloring-book display face (font.json + glyphs/)
 ```
