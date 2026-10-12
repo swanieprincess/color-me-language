@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Color Me Language — KDP full-wrap paperback cover template.
+     Trim 8.5 x 11 in, 32 pages on white paper, spine 0.0721 in, bleed 0.125 in each side.
+     Document size 17.3221 x 11.25 in. Export PDF at 300 dpi with text converted to paths. -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="17.3221in" height="11.25in" viewBox="0 0 1662.92 1080.0">
+  <g inkscape:groupmode="layer" inkscape:label="Background (extend to bleed)">
+    <rect x="0" y="0" width="1662.92" height="1080.0" fill="#ffffff"/>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Art">
+    <!-- cover art goes here; let it run to the outer edge of the bleed -->
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Text">
+    <text x="1242.92" y="223.2" text-anchor="middle" font-family="Fredoka" font-weight="600" font-size="120" fill="#ffffff" stroke="#111111" stroke-width="4" paint-order="stroke fill">TITLE</text>
+    <text x="1242.92" y="981.6" text-anchor="middle" font-family="Fredoka" font-weight="600" font-size="40" fill="#111111">Author Name</text>
+    <text x="420.0" y="165.6" text-anchor="middle" font-family="Fredoka" font-weight="600" font-size="44" fill="#111111">Back-cover blurb</text>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="GUIDES — delete before export" inkscape:locked="true">
+    <!-- trim lines -->
+    <rect x="12.0" y="12.0" width="1638.92" height="1056" fill="none" stroke="#ff00ff" stroke-width="1" stroke-dasharray="6 4"/>
+    <!-- spine -->
+    <rect x="828.0" y="12.0" width="6.92" height="1056" fill="none" stroke="#00aaff" stroke-width="1"/>
+    <!-- safe zones (keep text and important art inside) -->
+    <rect x="36.0" y="36.0" width="768.0" height="1008.0" fill="none" stroke="#00cc66" stroke-width="1" stroke-dasharray="3 3"/>
+    <rect x="858.92" y="36.0" width="768.0" height="1008.0" fill="none" stroke="#00cc66" stroke-width="1" stroke-dasharray="3 3"/>
+    <!-- KDP barcode area: 2 x 1.2 in, 0.25 in from the bottom-right trim corner of the BACK cover -->
+    <rect x="612.0" y="928.8" width="192" height="115.2" fill="#ffffff" stroke="#ff8800" stroke-width="1"/>
+    <text x="708.0" y="996.0" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#ff8800">barcode (KDP adds it)</text>
+    <text x="40.8" y="60.0" font-family="sans-serif" font-size="14" fill="#ff00ff">BACK</text>
+    <text x="863.72" y="60.0" font-family="sans-serif" font-size="14" fill="#ff00ff">FRONT</text>
+  </g>
+</svg>

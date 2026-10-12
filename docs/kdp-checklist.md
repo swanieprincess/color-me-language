@@ -8,8 +8,10 @@
       starts at 0.5 in).
 - [ ] Page count even (add a blank or notes page if odd).
 - [ ] Title page + copyright page at the front.
-- [ ] Cover: full-wrap PDF sized by KDP's cover calculator (spine width depends
-      on page count), 300 dpi, 0.125 in bleed.
+- [ ] Cover: full-wrap PDF from `templates/cover.svg` (sized for 32 pages on white
+      paper: spine 0.0721 in, document 17.3221 × 11.25 in). If the page count
+      changes, re-run KDP's cover calculator and resize the spine. 300 dpi,
+      0.125 in bleed, delete the GUIDES layer before export.
 - [ ] ISBN: free KDP ISBN or own.
 - [ ] Categories: Children's Coloring Books; Foreign Language Study.
 - [ ] Keywords: bilingual coloring book, Korean, Japanese, hanja, animals.
