@@ -1,3 +1,17 @@
+# --- Artwork: only the encrypted vault is committed (see docs/art-vault.md) ---
+art/raw/
+art/**/*.png
+art/**/*.jpg
+art/**/*.jpeg
+art/**/*.pdf
+art/**/*.psd
+art/**/*.tif
+art/**/*.tiff
+art/**/*.webp
+art/**/*.ai
+art/**/*.svg
+!art/vault.tar.age
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

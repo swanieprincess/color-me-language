@@ -63,4 +63,7 @@ templates/page.svg               the same layout for Inkscape
 templates/cover.svg              KDP full-wrap cover template (32 pages, white paper)
 docs/inkscape-workflow.md        vectorize the art, lay out, export print PDF
 tools/render_page.py             local HTML→PDF proof renderer (Playwright)
+art/vault.tar.age                the artwork, encrypted (age); raw files never committed
+tools/art_vault.sh               lock / unlock / list the art vault
+docs/art-vault.md                how the vault works and what goes in it
 ```
