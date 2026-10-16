@@ -7,6 +7,9 @@
       layout; margins ≥ 0.375 in on the gutter side for 24–150 pages (our frame
       starts at 0.5 in).
 - [ ] Page count even (add a blank or notes page if odd).
+      The Inkscape interior is 34 pages (title, copyright, 32 animals); the cover
+      spine for 34 white pages is 34 × 0.002252 = 0.0766 in, so widen the spine in
+      `templates/cover.svg` from 0.0721 in before exporting the cover.
 - [ ] Title page + copyright page at the front. KDP title: **The Learning Dojo**,
       subtitle **Animals, Volume 1** (series name: The Learning Dojo), author
       **Swan Moon**.

@@ -1,41 +1,46 @@
 # Fonts
 
-The fonts used across the cover, the interior and the docs, with their license
-status for a book that is sold. "Needs a license" means the free download does
-not permit commercial use; a paid license or a swap is required before the
-cover goes to KDP.
+Every font in the print files must be licensed for a book that is sold. All of
+the fonts below are SIL Open Font License 1.1 or Apache 2.0, so they are free
+for commercial use and may be embedded in the KDP PDF.
 
-| Use | Font | License | Status |
-|---|---|---|---|
-| English words / title (cover, Inkscape) | Summer Sunlight (scratchones) | Free for **personal use only**; commercial permit sold by the designer | **Needs a license or a swap** |
-| Display accent (cover) | KG Raft **TRIAL** | A trial build; trial versions of Kimberly Geswein fonts are not for commercial work | **Buy the full font (Fontspring / MyFonts) or drop it** |
-| Display accent (cover) | Punk Kid | Sites disagree: 1001Fonts says free for commercial use since a 2020 readme, FontSpace says non-commercial | **Open the readme.txt in the zip; keep only if it says commercial OK** |
-| Cover title + subtitle | Ghoust Outline (M. Ridha Agusni & S. Saribanon Nurjannah) | Free download is a **demo, personal use only**; commercial license sold via MyFonts / FontBundles / the designer's shop | **Buy the commercial license before the cover ships** |
-| Cover author line | The King Of Romance (Daddi Daryawan) | Free download is a **demo, personal use only**; commercial license via Creative Fabrica or creativework69.net | **Buy the commercial license before the cover ships** |
-| Hanja / Chinese words | Chill LongCang KaiShu (ChillType), Regular–ExtraBold | SIL Open Font License 1.1 | OK |
-| Korean words | YEONGJU Seonbi (영주 선비체) | Free font from Yeongju City, commercial use allowed; confirm on the city's font page | OK (verify) |
-| Korean handwriting accent | Nanum Son-geulssi Sea (나눔손글씨 세아체, Naver) | SIL Open Font License 1.1 | OK |
-| Interior word tags (Moda) | Fredoka (English), Noto Sans KR / JP / TC | SIL Open Font License 1.1 | OK |
-| Interior body / copyright page | Poppins | SIL Open Font License 1.1 | OK |
+## In use (Animals, Volume 1)
 
-Japanese: none of the cover fonts covers kana. Keep Noto Sans JP, or pick an
-OFL Japanese display face (Zen Maru Gothic, Kosugi Maru, Yusei Magic, all on
-Google Fonts) if the cover needs Japanese lettering.
+| Use | Font | License |
+|---|---|---|
+| Title "The Learning Dojo" (outlined, colorable) | Lilita One | OFL 1.1 |
+| English words, subtitle | Chewy | Apache 2.0 |
+| Korean words | Dongle Bold | OFL 1.1 |
+| Japanese words | Zen Maru Gothic Bold | OFL 1.1 |
+| Hanja / Chinese words | Chill LongCang KaiShu (ChillType) | OFL 1.1 |
+| Author name | Sacramento | OFL 1.1 |
+| Box labels, page numbers, copyright page | Fredoka | OFL 1.1 |
 
-## Free alternatives for the English display face
+All except Chill LongCang KaiShu come from the Google Fonts repository
+(github.com/google/fonts). Install them on the Mac before opening the interior
+SVG, or Inkscape substitutes a default font.
 
-All on Google Fonts under the OFL, so they are safe for KDP, Inkscape and the
-Moda interior alike. Chunky, rounded, child-friendly, and they outline well:
+### Sizing note for Dongle
 
-- **Fredoka** (already in the interior) — the safest choice for consistency.
-- **Lilita One** — bold rounded display, close in spirit to Summer Sunlight.
-- **Chewy** — playful, slightly bouncy.
-- **Luckiest Guy** — loud and cartoon-like.
-- **Baloo 2** — rounded with many weights, good for the subtitle.
-- **Sniglet** — soft rounded, very readable at small sizes.
+Dongle hangs syllables that end in a consonant (말, 늘) below the line while open
+syllables (나, 보) stay short. Words are therefore sized by the height of the ink
+above the baseline, not the total height, so Korean reads at the same size as
+the other three languages.
+
+## Retired (not licensed for a sold book)
+
+| Font | Why it was dropped | Replaced by |
+|---|---|---|
+| Ghoust Outline | free download is a personal-use demo | Lilita One + outline |
+| The King Of Romance | free download is a personal-use demo | Sacramento |
+| Summer Sunlight | personal use only | Chewy |
+| KG Raft TRIAL | trial build | (not needed) |
+| Punk Kid | conflicting license statements | (not needed) |
+| Noteworthy | macOS system font, not licensed for embedding | (stray empty text box, removed) |
+| YEONGJU Seonbi | license not verified | Dongle Bold |
 
 ## Rule
 
-Before a cover or page ships, every font on it is either OFL / Apache /
-public-domain, or a paid license is on file. Trial and personal-use fonts never
-reach the print file. Record any purchased license here with the order date.
+Before a cover or page ships, every font on it is OFL, Apache or public-domain,
+or a paid license is on file here with the order date. Trial, demo and
+personal-use fonts never reach a print file.

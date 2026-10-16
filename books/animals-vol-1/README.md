@@ -6,7 +6,9 @@
 - Source of the layout and art: the Moda canvas in the owner's private
   workspace (link kept out of this public repo).
 - Pages: 32, see [pages.csv](pages.csv).
-- Status: interior complete; cover, title page and copyright page pending.
+- Status: interior built in Inkscape (title page, copyright page, 32 animal
+  pages with the four words set in licensed fonts); the source SVG is in the
+  art vault as `art/raw/source/learning-dojo-animals-vol1.svg`. Cover pending.
 
 ## Decisions
 
