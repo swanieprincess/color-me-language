@@ -60,7 +60,7 @@ docs/art-direction.md            style, prompts, do/don't rules
 docs/kdp-checklist.md            what KDP needs before upload
 templates/page.moda.xml          the page layout markup (Moda)
 templates/page.svg               the same layout for Inkscape
-templates/cover.svg              KDP full-wrap cover template (32 pages, white paper)
+templates/cover.svg              KDP full-wrap cover template (34 pages, white paper)
 docs/inkscape-workflow.md        vectorize the art, lay out, export print PDF
 tools/render_page.py             local HTML→PDF proof renderer (Playwright)
 art/vault.tar.age                the artwork, encrypted (age); raw files never committed
