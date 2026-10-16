@@ -19,7 +19,8 @@
 - Title page uses Swan's colored three-animal image (koala, penguin, cat) on a
   muted yellow page (#f2e6b0): title in dark green (#2e6b3a, edge #173d22),
   "Animals · Volume 1" in navy (#1f3a6e, edge #0f1f3d), "Color & learn in 4
-  languages!" in red (#c62828, edge #6e1414). On a
+  languages!" in red (#c62828, edge #6e1414). Cream stars with gold edges and
+  five gold shooting comets fill the open background around the text and art. On a
   black & white interior it prints in grayscale; the same art in color goes on
   the front cover.
 - Export flattened; see docs/kdp-checklist.md.
