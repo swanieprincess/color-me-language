@@ -12,7 +12,8 @@
       in grayscale, so the colors must still read as distinct grays. Its
       yellow background runs to the page edge: either turn on interior bleed
       (page 8.625 x 11.25 in, background extended 0.125 in past trim) or accept
-      a thin white edge where KDP trims.
+      a thin white edge where KDP trims. The title's neon glow is an SVG
+      filter: export the PDF at 300 dpi or more so Inkscape rasterizes it cleanly.
 - [ ] Title page + copyright page at the front. KDP title: **The Learning Dojo**,
       subtitle **Animals, Volume 1** (series name: The Learning Dojo), author
       **Swan Moon**.

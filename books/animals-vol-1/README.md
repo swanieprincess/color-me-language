@@ -17,7 +17,8 @@
 - Penguin wears a winter beanie and scarf.
 - Swan wears a small crown and keeps the black bill knob and mask (mute swan).
 - Title page uses Swan's colored three-animal image (koala, penguin, cat) on a
-  muted yellow page (#f2e6b0): title in dark green (#2e6b3a, edge #173d22),
+  muted yellow page (#f2e6b0): title in bright neon blue (#00a6ff, edge #0047ab, soft cyan
+  #4fd2ff glow),
   "Animals · Volume 1" in navy (#1f3a6e, edge #0f1f3d), "Color & learn in 4
   languages!" in red (#c62828, edge #6e1414). Stars, four-point sparkles and dots
   in twelve colors (pink, sky blue, lavender, mint, orange, gold, magenta, teal,
