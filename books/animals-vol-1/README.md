@@ -1,7 +1,7 @@
 # The Learning Dojo: Animals, Volume 1
 
 - Title: **The Learning Dojo** — subtitle *Animals, Volume 1*.
-- Author: **Haku Tsuki** (pen name).
+- Author: **Swan Moon**.
 
 - Source of the layout and art: the Moda canvas in the owner's private
   workspace (link kept out of this public repo).

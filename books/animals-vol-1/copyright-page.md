@@ -8,10 +8,10 @@ Fredoka at about 10–11 pt, plenty of white space. Nothing to color on this pag
 **The Learning Dojo**
 *Animals, Volume 1*
 
-Copyright © 2026 Haku Tsuki
+Copyright © 2026 Swan Moon
 All rights reserved.
 
-Illustrations and lettering © 2026 Haku Tsuki.
+Illustrations and lettering © 2026 Swan Moon.
 
 No part of this book may be reproduced, stored, or transmitted in any form or
 by any means, electronic or mechanical, including photocopying, recording, or
@@ -42,8 +42,7 @@ Next in the series: *Under the Sea, Part 1 — Fish*
 
 - Replace the ISBN blank with the free KDP ISBN once it is assigned, or delete
   the line (KDP does not require it printed inside).
-- No email, website or real name on this page: the pen name is the only name
-  that appears anywhere in the book.
+- No email or website on this page; the author name is the only contact.
 - If the Korean, Japanese or Chinese words are ever checked by a native
   reviewer, add a line "Language review: <name>" above *First edition*.
 - The "Next in the series" line is optional; remove it if Volume 1 ships before
