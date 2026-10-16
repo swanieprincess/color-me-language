@@ -10,6 +10,8 @@ cover goes to KDP.
 | English words / title (cover, Inkscape) | Summer Sunlight (scratchones) | Free for **personal use only**; commercial permit sold by the designer | **Needs a license or a swap** |
 | Display accent (cover) | KG Raft **TRIAL** | A trial build; trial versions of Kimberly Geswein fonts are not for commercial work | **Buy the full font (Fontspring / MyFonts) or drop it** |
 | Display accent (cover) | Punk Kid | Sites disagree: 1001Fonts says free for commercial use since a 2020 readme, FontSpace says non-commercial | **Open the readme.txt in the zip; keep only if it says commercial OK** |
+| Cover title + subtitle | Ghoust Outline (M. Ridha Agusni & S. Saribanon Nurjannah) | Free download is a **demo, personal use only**; commercial license sold via MyFonts / FontBundles / the designer's shop | **Buy the commercial license before the cover ships** |
+| Cover author line | The King Of Romance (Daddi Daryawan) | Free download is a **demo, personal use only**; commercial license via Creative Fabrica or creativework69.net | **Buy the commercial license before the cover ships** |
 | Hanja / Chinese words | Chill LongCang KaiShu (ChillType), Regular–ExtraBold | SIL Open Font License 1.1 | OK |
 | Korean words | YEONGJU Seonbi (영주 선비체) | Free font from Yeongju City, commercial use allowed; confirm on the city's font page | OK (verify) |
 | Korean handwriting accent | Nanum Son-geulssi Sea (나눔손글씨 세아체, Naver) | SIL Open Font License 1.1 | OK |
