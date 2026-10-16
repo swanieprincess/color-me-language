@@ -16,5 +16,8 @@
   tortoise). Sea life goes into the Under the Sea series.
 - Penguin wears a winter beanie and scarf.
 - Swan wears a small crown and keeps the black bill knob and mask (mute swan).
+- Title page uses Swan's colored three-animal image (koala, penguin, cat). On a
+  black & white interior it prints in grayscale; the same art in color goes on
+  the front cover.
 - Export flattened; see docs/kdp-checklist.md.
 - Words use the everyday native term; see docs/art-direction.md.
