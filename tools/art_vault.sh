@@ -96,7 +96,34 @@ PY
   list)
     need_age
     [[ -f "$VAULT" ]] || { echo "no vault at $VAULT" >&2; exit 1; }
-    age -d "$VAULT" | tar -tf -
+    tmp="$(mktemp)"
+    if [[ -n "${ART_VAULT_PASSPHRASE:-}" ]]; then
+      python3 - "$VAULT" "$tmp" <<'PY'
+import os, sys, pty
+src, dst = sys.argv[1], sys.argv[2]
+pw = os.environ["ART_VAULT_PASSPHRASE"]
+pid, fd = pty.fork()
+if pid == 0:
+    os.execvp("age", ["age", "-d", "-o", dst, src])
+buf = b""; sent = 0
+while True:
+    try:
+        chunk = os.read(fd, 1024)
+    except OSError:
+        break
+    if not chunk:
+        break
+    buf += chunk
+    if b"passphrase" in buf.lower() and sent < 1 and buf.rstrip().endswith(b":"):
+        os.write(fd, pw.encode() + b"\n"); sent += 1; buf = b""
+_, status = os.waitpid(pid, 0)
+sys.exit(os.WEXITSTATUS(status))
+PY
+    else
+      age -d -o "$tmp" "$VAULT"
+    fi
+    tar -tvf "$tmp"
+    rm -f "$tmp"
     ;;
   *)
     sed -n '2,15p' "$0"
