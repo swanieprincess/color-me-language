@@ -66,4 +66,5 @@ tools/render_page.py             local HTML→PDF proof renderer (Playwright)
 art/vault.tar.age                the artwork, encrypted (age); raw files never committed
 tools/art_vault.sh               lock / unlock / list the art vault
 docs/art-vault.md                how the vault works and what goes in it
+docs/fonts.md                    every font in use, its license, and OFL swaps
 ```
