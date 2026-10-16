@@ -20,7 +20,7 @@
   muted yellow page (#f2e6b0): title in bright neon blue (#00a6ff, edge #0047ab, soft cyan
   #4fd2ff glow),
   "Animals · Volume 1" in navy (#1f3a6e, edge #0f1f3d), "Color & learn in 4
-  languages!" in red (#c62828, edge #6e1414). Stars, four-point sparkles and dots
+  languages!" in dark green (#2e6b3a, edge #173d22). Stars, four-point sparkles and dots
   in twelve colors (pink, sky blue, lavender, mint, orange, gold, magenta, teal,
   red, lime, periwinkle, apricot; each with a darker edge) fill the open
   background around the text and art. No comets. On a
