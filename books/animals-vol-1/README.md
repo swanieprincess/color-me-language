@@ -11,7 +11,8 @@
   art vault as `art/raw/source/learning-dojo-animals-vol1.svg`. Full-wrap cover
   built (`art/raw/source/learning-dojo-animals-vol1-cover.svg`, in the vault):
   front = the title page; back = blurb, a colored sample of the cat's four word
-  tags with "Color the words, too!", and the author name; blank spine (too thin
+  tags with "Color the words, too!", and the author signature bottom right
+  (just above the barcode box); blank spine (too thin
   for text at 34 pages); KDP barcode area left clear.
 
 ## Decisions
