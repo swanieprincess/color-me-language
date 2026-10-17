@@ -19,7 +19,7 @@ as print-ready PDFs for Amazon KDP.
 
 | # | Title | Status | Pages |
 |---|-------|--------|-------|
-| 1 | The Learning Dojo: Animals, Volume 1 | interior built in Inkscape (34 pages), cover pending | 34 |
+| 1 | The Learning Dojo: Animals, Volume 1 | interior and full-wrap cover built in Inkscape (34 pages) | 34 |
 | 2 | Under the Sea, Part 1 — Fish | planned | — |
 | 3 | Under the Sea, Part 2 — Crustaceans | planned | — |
 | 4 | Under the Sea, Part 3 — Other sea life | planned | — |

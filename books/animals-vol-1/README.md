@@ -8,7 +8,11 @@
 - Pages: 32, see [pages.csv](pages.csv).
 - Status: interior built in Inkscape (title page, copyright page, 32 animal
   pages with the four words set in licensed fonts); the source SVG is in the
-  art vault as `art/raw/source/learning-dojo-animals-vol1.svg`. Cover pending.
+  art vault as `art/raw/source/learning-dojo-animals-vol1.svg`. Full-wrap cover
+  built (`art/raw/source/learning-dojo-animals-vol1-cover.svg`, in the vault):
+  front = the title page; back = blurb, a colored sample of the cat's four word
+  tags, an "Inside this book" list and the author name; blank spine (too thin
+  for text at 34 pages); KDP barcode area left clear.
 
 ## Decisions
 
