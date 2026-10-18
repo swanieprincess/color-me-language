@@ -67,9 +67,9 @@ Overlap check (English and Korean names, all three books): **no animal appears t
 | 13 | Seagull | 갈매기 | かもめ | 海鷗 | reptiles & birds |
 | 14 | Blue Crab | 꽃게 | ガザミ | 梭子蟹 | crab |
 | 15 | Snow Crab | 대게 | ズワイガニ | 雪蟹 | crab |
-| 16 | King Crab | 왕게 | タラバガニ | 帝王蟹 | crab |
+| 16 | Walrus | 바다코끼리 | セイウチ | 海象 | seals & friends |
 | 17 | Hermit Crab | 소라게 | ヤドカリ | 寄居蟹 | crab |
-| 18 | Fiddler Crab | 농게 | シオマネキ | 招潮蟹 | crab |
+| 18 | Sea Otter | 해달 | ラッコ | 海獺 | seals & friends |
 | 19 | Shrimp | 새우 | えび | 蝦 | shrimp & lobster |
 | 20 | Mantis Shrimp | 갯가재 | しゃこ | 蝦蛄 | shrimp & lobster |
 | 21 | Big Prawn | 대하 | コウライエビ | 大蝦 | shrimp & lobster |
@@ -112,6 +112,7 @@ Overlap check (English and Korean names, all three books): **no animal appears t
   narwhal, spiny lobster, barnacle (Vol 2).
 - Added from the Korean gems (Swan): 숭어 mullet, 청어 herring, 우뭇가사리 agar seaweed
   (Vol 1), 꼬막 cockle (Vol 2). Out to make room: clownfish, whale shark (Vol 1);
-  walrus, sea otter (Vol 2). Jellyfish moved from Vol 1 to Vol 2.
+  king crab, fiddler crab (Vol 2; walrus and sea otter kept, Swan). Jellyfish
+  moved from Vol 1 to Vol 2.
 - Korean gems still available: 주꾸미 webfoot octopus, 재첩 marsh clam, 가자미 flatfish,
   망둥어 goby, 삼치 Spanish mackerel, 미더덕 warty sea squirt. 강치 avoided (Dokdo).
