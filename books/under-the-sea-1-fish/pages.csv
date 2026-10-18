@@ -5,20 +5,20 @@ page,animal,english,korean,japanese,hanja_chinese,trinkets,check
 4,seahorse,Seahorse,해마,タツノオトシゴ,海馬,"seagrass, bubbles, pearls, tiny shells",
 5,yellowtail,Yellowtail,방어,ぶり,鰤魚,"waves, bubbles, school of fish",
 6,squid,Squid,오징어,いか,魷魚,"bubbles, seaweed, little ink drops, small fish",
-7,swordfish,Swordfish,황새치,メカジキ,劍魚,"waves, bubbles, sun rays, small fish",
+7,jellyfish,Jellyfish,해파리,くらげ,水母,"bubbles, sun rays, little fish, sparkles",
 8,tuna,Tuna,참치,まぐろ,鮪魚,"waves, bubbles, school of fish",
 9,salmon,Salmon,연어,さけ,鮭魚,"waves, river rocks, bubbles, eggs",
 10,flying fish,Flying Fish,날치,トビウオ,飛魚,"waves, clouds, sun, spray",
 11,ocean sunfish,Sunfish,개복치,マンボウ,翻車魚,"sun rays, bubbles, jellyfish, waves",
-12,seagrass,Seagrass,잘피,アマモ,大葉藻,"sandy floor, seahorse friend, bubbles",zh
+12,abalone,Abalone,전복,あわび,鮑魚,"rocks, pearls, bubbles, seaweed",
 13,stingray,Stingray,가오리,エイ,魟魚,"sandy floor, shells, bubbles, seaweed",
 14,hammerhead shark,Hammerhead Shark,귀상어,シュモクザメ,雙髻鯊,"bubbles, small fish, kelp",
 15,great white shark,Great White Shark,백상아리,ホホジロザメ,大白鯊,"bubbles, waves, kelp (friendly smiling shark)",
 16,whale shark,Whale Shark,고래상어,ジンベエザメ,鯨鯊,"spots, bubbles, plankton dots, small fish",
-17,moray eel,Moray Eel,곰치,ウツボ,海鱔,"rocky cave, coral, bubbles",zh
+17,eel,Eel,장어,うなぎ,鰻魚,"river-mouth rocks, bubbles, seaweed",
 18,anglerfish,Anglerfish,아귀,アンコウ,鮟鱇,"glowing lure, dark-sea sparkles, bubbles",
-19,parrotfish,Parrotfish,파랑비늘돔,ブダイ,鸚哥魚,"coral, sand, bubbles",ko
-20,butterflyfish,Butterflyfish,나비고기,チョウチョウウオ,蝴蝶魚,"coral, bubbles, sea fans",
+19,yellow croaker,Yellow Croaker,조기,キグチ,黃魚,"waves, bubbles, small fish",ja
+20,pollock,Pollock,명태,すけとうだら,明太魚,"cold waves, snowflakes, bubbles, roe pearls",
 21,saury,Saury,꽁치,さんま,秋刀魚,"waves, autumn leaves, moon",
 22,hijiki,Hijiki,톳,ひじき,羊栖菜,"tide-pool rocks, bubbles, pebbles",
 23,wakame,Wakame,미역,わかめ,裙帶菜,"rocks, bubbles, shells, small fish",

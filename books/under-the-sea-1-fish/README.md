@@ -36,12 +36,12 @@
 
 ## Words to double-check (`check` column in pages.csv)
 
-- Seagrass, zh: 大葉藻 (eelgrass) vs the general 海草.
+- Yellow croaker, ja: キグチ is the species; Japanese kids may not know it
+  (it is mainly eaten in Korea and China). Fine, since Korean familiarity is the rule.
+
 
 These have more than one name in use; confirm with a native speaker:
 
-- Moray eel, zh: 海鱔 vs 裸胸鱔.
-- Parrotfish, ko: 파랑비늘돔 is the standard name; 앵무고기 is heard too.
 - Sea bream, zh: 真鯛 (in Taiwan 鯛魚 often means tilapia).
 
 ## Octopus and cuttlefish (Swan, 2026-10-18)
@@ -58,3 +58,11 @@ book from the planned "other sea life" part, replacing remora and sea lettuce
 children in Korea and Japan know from home cooking: 김, 미역, 다시마, 톳, 멸치, 고등어,
 갈치, 대구, 도미, 문어, 오징어, ふぐ, まぐろ, さんま and so on. Squid (오징어 / いか / 魷魚)
 added on that basis, replacing lionfish. Now 24 fish, 5 sea plants, 3 mollusks.
+
+## Familiar to Korean kids (Swan, 2026-10-18)
+
+"I'd replace the ones that are not familiar to Korean kids." Swapped out:
+butterflyfish, parrotfish, moray eel, seagrass, swordfish. In: pollock (명태 / すけとうだら /
+明太魚), yellow croaker (조기 / キグチ / 黃魚), eel (장어 / うなぎ / 鰻魚), abalone (전복 /
+あわび / 鮑魚), jellyfish (해파리 / くらげ / 水母). Now 23 fish, 4 sea plants, 5 other
+sea creatures (octopus, cuttlefish, squid, abalone, jellyfish).
