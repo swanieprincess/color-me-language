@@ -79,3 +79,5 @@ sea creatures (octopus, cuttlefish, squid, abalone, jellyfish).
 - Sea bass (농어 / すずき / 鱸魚) added, replacing stingray (Swan's pick).
 - Korean gems (Swan approved 2026-10-18): filefish 쥐치 (쥐포) replaces sunfish;
   mudskipper 짱뚱어 (갯벌) replaces great white shark. Whale shark is the only shark now.
+- Swan's picks (2026-10-18): mullet 숭어, herring 청어 (과메기) and agar seaweed 우뭇가사리
+  replace clownfish, whale shark and jellyfish (jellyfish moved to Volume 2). No sharks now.

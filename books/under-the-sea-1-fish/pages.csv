@@ -1,10 +1,10 @@
 page,animal,english,korean,japanese,hanja_chinese,trinkets,check
-1,clownfish,Clownfish,흰동가리,クマノミ,小丑魚,"sea anemone, bubbles, coral, shells, small fish",
+1,mullet,Mullet,숭어,ぼら,烏魚,"jumping out of the water, splashes, waves, a little goby friend",zh (also 鯔魚)
 2,cutlassfish,Cutlassfish,갈치,たちうお,帶魚,"moonlit waves, bubbles, small fish",
 3,pufferfish,Pufferfish,복어,ふぐ,河豚,"bubbles, coral, shells, seaweed",
 4,seahorse,Seahorse,해마,タツノオトシゴ,海馬,"seagrass, bubbles, pearls, tiny shells",
 5,squid,Squid,오징어,いか,魷魚,"bubbles, seaweed, little ink drops, small fish",
-6,jellyfish,Jellyfish,해파리,くらげ,水母,"bubbles, sun rays, little fish, sparkles",
+6,agar seaweed,Agar Seaweed,우뭇가사리,てんぐさ,石花菜,"rocks, bubbles, tiny fish, shells",
 7,tuna,Tuna,참치,まぐろ,鮪魚,"waves, bubbles, school of fish",
 8,salmon,Salmon,연어,さけ,鮭魚,"waves, river rocks, bubbles, eggs",
 9,filefish,Filefish,쥐치,カワハギ,剝皮魚,"coral, seaweed, bubbles",
@@ -14,7 +14,7 @@ page,animal,english,korean,japanese,hanja_chinese,trinkets,check
 13,sea bass,Sea Bass,농어,すずき,鱸魚,"rocky shore, waves, bubbles, seaweed",
 14,starfish,Starfish,불가사리,ひとで,海星,"sandy beach, shells, pebbles, bubbles",
 15,mudskipper,Mudskipper,짱뚱어,ムツゴロウ,彈塗魚,"mudflat (갯벌), little crabs' holes, puddles, reeds",
-16,whale shark,Whale Shark,고래상어,ジンベエザメ,鯨鯊,"spots, bubbles, plankton dots, small fish",
+16,herring,Herring,청어,にしん,鯡魚,"cold waves, school of fish, bubbles",
 17,eel,Eel,장어,うなぎ,鰻魚,"river-mouth rocks, bubbles, seaweed",
 18,sea urchin,Sea Urchin,성게,うに,海膽,"rocks, seaweed, shells, bubbles (soft rounded spines)",
 19,yellow croaker,Yellow Croaker,조기,キグチ,黃魚,"waves, bubbles, small fish",ja

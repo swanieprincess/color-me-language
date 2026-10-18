@@ -12,7 +12,7 @@
 - Whales & dolphins (7): blue whale, humpback, gray whale (귀신고래), orca,
   dolphin, beluga, finless porpoise (상괭이). The blue whale page has a swarm of tiny krill as decoration
   (krill has no real Korean name, so no name tag).
-- Seals & friends (4): spotted seal, sea lion, walrus, sea otter.
+- Seals (2): spotted seal, sea lion.
 - Sea turtle and seagull.
 - Crabs (5): blue, snow, king, hermit, fiddler.
 - Shrimp (3): shrimp, big prawn (대하), mantis shrimp.
@@ -25,3 +25,5 @@ Words to double-check are marked in the `check` column of pages.csv.
 
 Korean gems swapped in (Swan approved 2026-10-18): 상괭이, 귀신고래, 대하, 낙지 replace
 sperm whale, narwhal, spiny lobster, barnacle.
+Swan's picks (2026-10-18): cockle 꼬막 replaces walrus; jellyfish (moved from Volume 1)
+replaces sea otter.

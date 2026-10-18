@@ -15,12 +15,12 @@ Overlap check (English and Korean names, all three books): **no animal appears t
 
 | # | English | 한국어 | 日本語 | 漢字 |
 |---|---|---|---|---|
-| 1 | Clownfish | 흰동가리 | クマノミ | 小丑魚 |
+| 1 | Mullet | 숭어 | ぼら | 烏魚 |
 | 2 | Cutlassfish | 갈치 | たちうお | 帶魚 |
 | 3 | Pufferfish | 복어 | ふぐ | 河豚 |
 | 4 | Seahorse | 해마 | タツノオトシゴ | 海馬 |
 | 5 | Squid | 오징어 | いか | 魷魚 |
-| 6 | Jellyfish | 해파리 | くらげ | 水母 |
+| 6 | Agar Seaweed | 우뭇가사리 | てんぐさ | 石花菜 |
 | 7 | Tuna | 참치 | まぐろ | 鮪魚 |
 | 8 | Salmon | 연어 | さけ | 鮭魚 |
 | 9 | Filefish | 쥐치 | カワハギ | 剝皮魚 |
@@ -30,7 +30,7 @@ Overlap check (English and Korean names, all three books): **no animal appears t
 | 13 | Sea Bass | 농어 | すずき | 鱸魚 |
 | 14 | Starfish | 불가사리 | ひとで | 海星 |
 | 15 | Mudskipper | 짱뚱어 | ムツゴロウ | 彈塗魚 |
-| 16 | Whale Shark | 고래상어 | ジンベエザメ | 鯨鯊 |
+| 16 | Herring | 청어 | にしん | 鯡魚 |
 | 17 | Eel | 장어 | うなぎ | 鰻魚 |
 | 18 | Sea Urchin | 성게 | うに | 海膽 |
 | 19 | Yellow Croaker | 조기 | キグチ | 黃魚 |
@@ -61,8 +61,8 @@ Overlap check (English and Korean names, all three books): **no animal appears t
 | 7 | Gray Whale | 귀신고래 | コククジラ | 灰鯨 | whales & dolphins |
 | 8 | Spotted Seal | 점박이물범 | ゴマフアザラシ | 斑海豹 | seals & friends |
 | 9 | Sea Lion | 바다사자 | アシカ | 海獅 | seals & friends |
-| 10 | Walrus | 바다코끼리 | セイウチ | 海象 | seals & friends |
-| 11 | Sea Otter | 해달 | ラッコ | 海獺 | seals & friends |
+| 10 | Cockle | 꼬막 | はいがい | 血蚶 | shellfish |
+| 11 | Jellyfish | 해파리 | くらげ | 水母 | soft sea life |
 | 12 | Sea Turtle | 바다거북 | ウミガメ | 海龜 | reptiles & birds |
 | 13 | Seagull | 갈매기 | かもめ | 海鷗 | reptiles & birds |
 | 14 | Blue Crab | 꽃게 | ガザミ | 梭子蟹 | crab |
@@ -105,11 +105,13 @@ Overlap check (English and Korean names, all three books): **no animal appears t
 - Not picked when Volumes 2 and 3 were combined (kept for a later book):
   fleshy prawn 대하, kuruma prawn 보리새우, sweet shrimp 단새우, crayfish 가재,
   gooseneck barnacle 거북손, pill bug 쥐며느리, sea slater 갯강구, water flea 물벼룩,
-  cockle 꼬막, razor clam 맛조개, pen shell 키조개, sea slug 갯민숭달팽이, 
+  razor clam 맛조개, pen shell 키조개, sea slug 갯민숭달팽이, 
   fur seal 물개, polar bear 북극곰, sea snake 바다뱀 (→ Reptiles),
   sea hare 군소, spoon worm 개불.
 - Swapped out for Korean gems: sunfish, great white shark (Vol 1); sperm whale,
   narwhal, spiny lobster, barnacle (Vol 2).
-- Korean gems still available: 주꾸미 webfoot octopus, 꼬막 cockle, 재첩 marsh clam,
-  가자미 flatfish, 숭어 mullet, 망둥어 goby, 삼치 Spanish mackerel, 청어 herring,
-  우뭇가사리 agar seaweed, 미더덕 warty sea squirt. 강치 avoided (Dokdo).
+- Added from the Korean gems (Swan): 숭어 mullet, 청어 herring, 우뭇가사리 agar seaweed
+  (Vol 1), 꼬막 cockle (Vol 2). Out to make room: clownfish, whale shark (Vol 1);
+  walrus, sea otter (Vol 2). Jellyfish moved from Vol 1 to Vol 2.
+- Korean gems still available: 주꾸미 webfoot octopus, 재첩 marsh clam, 가자미 flatfish,
+  망둥어 goby, 삼치 Spanish mackerel, 미더덕 warty sea squirt. 강치 avoided (Dokdo).
