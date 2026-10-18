@@ -9,10 +9,10 @@
 - [ ] Page count even (add a blank or notes page if odd).
       The Inkscape interior is 34 pages (title, copyright, 32 animals).
 - [ ] Check the colored title page in KDP's previewer: a B&W interior prints it
-      in grayscale, so the colors must still read as distinct grays. Its
-      yellow background runs to the page edge: either turn on interior bleed
-      (page 8.625 x 11.25 in, background extended 0.125 in past trim) or accept
-      a thin white edge where KDP trims. The title's neon glow is an SVG
+      in grayscale, so the colors must still read as distinct grays.
+- [ ] Interior is built WITH BLEED: every page is 8.625 x 11.25 in (trim 8.5 x 11
+      plus 0.125 in on top, bottom and the outside edge; odd pages bleed right,
+      even pages bleed left). Pick "Bleed" when setting up the KDP paperback. The title's neon glow is an SVG
       filter: export the PDF at 300 dpi or more so Inkscape rasterizes it cleanly.
 - [ ] Title page + copyright page at the front. KDP title: **The Learning Dojo**,
       subtitle **Animals, Volume 1** (series name: The Learning Dojo), author
