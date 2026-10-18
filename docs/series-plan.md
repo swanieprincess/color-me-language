@@ -16,8 +16,9 @@ crab, octopus, shark, whale, seal, sea turtle, fish, jellyfish, starfish.
 
 ## 2–4. Under the Sea — a three-part series
 
-- **Part 1 — Under the Sea, Volume 1 (fish, seaweed, octopus, cuttlefish).** 23 fish, 3 seaweeds (nori, kelp, wakame)
-  and 5 other sea creatures (octopus, cuttlefish, squid, abalone, jellyfish);
+- **Part 1 — Under the Sea, Volume 1 (fish, seaweed, octopus, cuttlefish).** 21 fish, 3 seaweeds (nori, kelp, wakame),
+  7 other sea creatures (octopus, cuttlefish, squid, abalone, jellyfish,
+  starfish, sea urchin) and a flying-fish-roe page facing the flying fish;
   every name must be a real word in all four languages and familiar to Korean kids. Word list: books/under-the-sea-1-fish/pages.csv. Original
   fish candidates: clownfish, goldfish, angelfish, pufferfish,
   seahorse, swordfish, tuna, salmon, betta, koi, flying fish, sunfish,
