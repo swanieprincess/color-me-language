@@ -76,3 +76,4 @@ sea creatures (octopus, cuttlefish, squid, abalone, jellyfish).
   if the order ever changes.
 - Sea urchin (성게 / うに / 海膽) added. Anglerfish kept (Swan: "really well known"),
   so hijiki was dropped instead; seaweeds are now nori, kelp, wakame.
+- Sea bass (농어 / すずき / 鱸魚) added, replacing stingray (Swan's pick).

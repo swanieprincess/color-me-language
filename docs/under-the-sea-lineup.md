@@ -28,7 +28,7 @@ Overlap check (English and Korean names, all four books): **no animal appears tw
 | 10 | Flying Fish | 날치 | トビウオ | 飛魚 |
 | 11 | Flying Fish Roe | 날치알 | とびこ | 飛魚卵 |
 | 12 | Abalone | 전복 | あわび | 鮑魚 |
-| 13 | Stingray | 가오리 | エイ | 魟魚 |
+| 13 | Sea Bass | 농어 | すずき | 鱸魚 |
 | 14 | Starfish | 불가사리 | ひとで | 海星 |
 | 15 | Great White Shark | 백상아리 | ホホジロザメ | 大白鯊 |
 | 16 | Whale Shark | 고래상어 | ジンベエザメ | 鯨鯊 |
@@ -112,11 +112,13 @@ Overlap check (English and Korean names, all four books): **no animal appears tw
 
 ## Left out on purpose
 
-- No real name in one of the languages: lobster (ロブスター), krill (크릴), manatee,
+- No real name in one of the languages: lobster (ロブスター), krill (크릴), plankton
+  (플랑크톤 / プランクトン; also not one animal), manatee,
   dugong, pelican, albatross, puffin, minke whale, blue tang, angelfish,
   blobfish, leafy sea dragon.
 - Not familiar to Korean kids / dropped from Volume 1: butterflyfish,
-  parrotfish, moray eel, swordfish, sailfish, barracuda, sardine, manta ray,
+  parrotfish, moray eel, swordfish, stingray (replaced by sea bass), grouper
+  (no single Korean name), sailfish, barracuda, sardine, manta ray,
   hammerhead shark, sawfish, remora, lionfish, boxfish, porcupinefish,
   yellowtail, sand dollar; seaweeds hijiki, sea lettuce, seagrass.
 - Already in Animals, Volume 1: penguin, swan, duck (sea turtle and polar bear
