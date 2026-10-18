@@ -33,5 +33,8 @@
   black & white interior it prints in grayscale; the same art in color goes on
   the front cover.
 - No page numbers (they fell inside KDP's 3/8 in bleed margin).
+- Print-ready interior PDF exported by Swan from Inkscape 2026-10-18 (34 pages,
+  8.625 x 11.25 in, text as paths, glow rasterized at 300 ppi) is in the vault as
+  `art/raw/print/learning-dojo-animals-vol1-interior.pdf`.
 - Export flattened; see docs/kdp-checklist.md.
 - Words use the everyday native term; see docs/art-direction.md.
