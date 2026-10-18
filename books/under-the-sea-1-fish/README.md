@@ -13,7 +13,8 @@
   kelp, wakame, hijiki, sea lettuce, seagrass. Sea plants get kawaii faces like
   the animals. Dropped to make room: porcupinefish, boxfish, sailfish,
   barracuda, sardine, manta ray.
-- Anchovy (멸치 / かたくちいわし / 鯷魚) added at Swan's request, replacing cod.
+- Anchovy (멸치 / かたくちいわし / 鯷魚) added at Swan's request; cod (대구) kept
+  too, so sawfish was dropped instead (closest to the stingray).
 - Fish are saltwater only, to match "Under the Sea". Sharks and rays are fish,
   so they belong here; crustaceans (Part 2) and sea mammals, octopus,
   jellyfish, starfish and sea turtles (Part 3) do not. A starfish or jellyfish
@@ -31,8 +32,7 @@
   2026-10-18): no English sounded out in hangeul or katakana. Blue tang
   (블루탱), angelfish (엔젤피시), blobfish (블롭피시) and leafy sea dragon
   (リーフィーシードラゴン) were dropped for this; cutlassfish (갈치 / たちうお /
-  帶魚), yellowtail (방어 / ぶり / 鰤魚), sawfish (톱가오리 / ノコギリエイ / 鋸鰩)
-  and remora (빨판상어 / コバンザメ / 鮣魚) took their places.
+  帶魚), yellowtail (방어 / ぶり / 鰤魚), remora (빨판상어 / コバンザメ / 鮣魚) took their places.
 
 ## Words to double-check (`check` column in pages.csv)
 
