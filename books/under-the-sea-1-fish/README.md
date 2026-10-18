@@ -13,6 +13,7 @@
   kelp, wakame, hijiki, sea lettuce, seagrass. Sea plants get kawaii faces like
   the animals. Dropped to make room: porcupinefish, boxfish, sailfish,
   barracuda, sardine, manta ray.
+- Anchovy (멸치 / かたくちいわし / 鯷魚) added at Swan's request, replacing cod.
 - Fish are saltwater only, to match "Under the Sea". Sharks and rays are fish,
   so they belong here; crustaceans (Part 2) and sea mammals, octopus,
   jellyfish, starfish and sea turtles (Part 3) do not. A starfish or jellyfish
