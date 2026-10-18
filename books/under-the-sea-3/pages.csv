@@ -1,0 +1,26 @@
+page,animal,english,korean,japanese,hanja_chinese,group,check
+1,blue whale,Blue Whale,대왕고래,シロナガスクジラ,藍鯨,whales & dolphins,
+2,humpback whale,Humpback Whale,혹등고래,ザトウクジラ,座頭鯨,whales & dolphins,
+3,sperm whale,Sperm Whale,향유고래,マッコウクジラ,抹香鯨,whales & dolphins,
+4,gray whale,Gray Whale,귀신고래,コククジラ,灰鯨,whales & dolphins,"the ""Korean gray whale"" (Ulsan)"
+5,orca,Orca,범고래,シャチ,虎鯨,whales & dolphins,
+6,dolphin,Dolphin,돌고래,イルカ,海豚,whales & dolphins,
+7,beluga,Beluga,흰고래,シロイルカ,白鯨,whales & dolphins,"ko (often called 벨루가, a loanword)"
+8,narwhal,Narwhal,일각고래,イッカク,一角鯨,whales & dolphins,
+9,finless porpoise,Finless Porpoise,상괭이,スナメリ,江豚,whales & dolphins,lives off the Korean coast
+10,spotted seal,Spotted Seal,점박이물범,ゴマフアザラシ,斑海豹,seals & friends,Baengnyeongdo seals
+11,fur seal,Fur Seal,물개,オットセイ,海狗,seals & friends,
+12,sea lion,Sea Lion,바다사자,アシカ,海獅,seals & friends,Dokdo sea lion = 강치
+13,walrus,Walrus,바다코끼리,セイウチ,海象,seals & friends,
+14,sea otter,Sea Otter,해달,ラッコ,海獺,seals & friends,
+15,polar bear,Polar Bear,북극곰,ホッキョクグマ,北極熊,seals & friends,Animals Vol. 1 has a (brown) bear
+16,sea turtle,Sea Turtle,바다거북,ウミガメ,海龜,reptiles & birds,Animals Vol. 1 has a garden tortoise
+17,sea snake,Sea Snake,바다뱀,ウミヘビ,海蛇,reptiles & birds,or save for the Reptiles book
+18,seagull,Seagull,갈매기,かもめ,海鷗,reptiles & birds,
+19,sea cucumber,Sea Cucumber,해삼,なまこ,海參,soft sea life,
+20,sea squirt,Sea Squirt,멍게,ほや,海鞘,soft sea life,
+21,coral,Coral,산호,さんご,珊瑚,soft sea life,
+22,sea anemone,Sea Anemone,말미잘,いそぎんちゃく,海葵,soft sea life,
+23,sea hare,Sea Hare,군소,アメフラシ,海兔,soft sea life,
+24,sea slug,Sea Slug,갯민숭달팽이,ウミウシ,海蛞蝓,soft sea life,
+25,spoon worm,Spoon Worm,개불,ユムシ,海腸,soft sea life,looks odd; optional
