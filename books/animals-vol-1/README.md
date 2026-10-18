@@ -22,16 +22,13 @@
   tortoise). Sea life goes into the Under the Sea series.
 - Penguin wears a winter beanie and scarf.
 - Swan wears a small crown and keeps the black bill knob and mask (mute swan).
-- Title page uses Swan's colored three-animal image (koala, penguin, cat) on a
-  muted yellow page (#f2e6b0): title in bright neon blue (#00a6ff, edge #0047ab, soft cyan
-  #4fd2ff glow),
-  "Animals · Volume 1" in navy (#1f3a6e, edge #0f1f3d), "Color & learn in 4
-  languages!" in dark green (#2e6b3a, edge #173d22). Stars, four-point sparkles and dots
-  in twelve colors (pink, sky blue, lavender, mint, orange, gold, magenta, teal,
-  red, lime, periwinkle, apricot; each with a darker edge) fill the open
-  background around the text and art. No comets. On a
-  black & white interior it prints in grayscale; the same art in color goes on
-  the front cover.
+- Title page (and the front cover, which reuses it): Swan's colored three-animal
+  image on a muted yellow page (#f2e6b0) with colorful stars and sparkles; title
+  in neon aqua (#00ffff, edge #0044aa, aqua glow #4fd2ff); "Animals · Volume 1"
+  navy (#1f3a6e, edge #00ccff); "Color & learn in 4 languages!" green (#2e6b3a,
+  edge #00ff00) with a blue "4"; language names each in their own color. Colors
+  taken from Swan's Inkscape export, 2026-10-18. On a black & white interior the
+  page prints in grayscale.
 - No page numbers (they fell inside KDP's 3/8 in bleed margin).
 - Print-ready interior PDF exported by Swan from Inkscape 2026-10-18 (34 pages,
   8.625 x 11.25 in, text as paths, glow rasterized at 300 ppi) is in the vault as
