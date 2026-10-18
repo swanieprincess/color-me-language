@@ -74,4 +74,5 @@ sea creatures (octopus, cuttlefish, squid, abalone, jellyfish).
   飛魚卵) on the right-hand page opposite. The only food page in the book.
   Yellowtail dropped to keep 32 pages. Keep the flying fish on an even book page
   if the order ever changes.
-- Sea urchin (성게 / うに / 海膽) added, replacing anglerfish.
+- Sea urchin (성게 / うに / 海膽) added. Anglerfish kept (Swan: "really well known"),
+  so hijiki was dropped instead; seaweeds are now nori, kelp, wakame.
