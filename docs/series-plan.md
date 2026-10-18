@@ -14,11 +14,11 @@ sloth, squirrel, tiger, swan.
 Explicitly excluded from this book because they are sea animals: dolphin,
 crab, octopus, shark, whale, seal, sea turtle, fish, jellyfish, starfish.
 
-## 2–4. Under the Sea — a three-part series
+## 2–3. Under the Sea — two books
 
 Full side-by-side lineup with the overlap check: docs/under-the-sea-lineup.md.
-Volume 2 = Shells & Claws (books/under-the-sea-2), Volume 3 = Sea Mammals &
-Friends (books/under-the-sea-3).
+Volume 2 = whales, seals, crabs, shrimp, shellfish and soft sea life
+(books/under-the-sea-2), combined from the planned Volumes 2 and 3.
 
 - **Part 1 — Under the Sea, Volume 1 (fish, seaweed, octopus, cuttlefish).** 21 fish, 3 seaweeds (nori, kelp, wakame),
   7 other sea creatures (octopus, cuttlefish, squid, abalone, jellyfish,
