@@ -16,8 +16,8 @@ crab, octopus, shark, whale, seal, sea turtle, fish, jellyfish, starfish.
 
 ## 2–4. Under the Sea — a three-part series
 
-- **Part 1 — Under the Sea, Volume 1 (fish, seaweed, octopus, cuttlefish).** 25 saltwater fish, 5 sea plants (nori, kelp,
-  wakame, hijiki, seagrass) and 2 mollusks (octopus, cuttlefish); every name must be a real word in all
+- **Part 1 — Under the Sea, Volume 1 (fish, seaweed, octopus, cuttlefish).** 24 saltwater fish, 5 sea plants (nori, kelp,
+  wakame, hijiki, seagrass) and 3 mollusks (octopus, cuttlefish, squid); every name must be a real word in all
   four languages. Word list: books/under-the-sea-1-fish/pages.csv. Original
   fish candidates: clownfish, goldfish, angelfish, pufferfish,
   seahorse, swordfish, tuna, salmon, betta, koi, flying fish, sunfish,
@@ -28,7 +28,7 @@ crab, octopus, shark, whale, seal, sea turtle, fish, jellyfish, starfish.
   spider crab, king crab, pill bug (woodlouse, a land crustacean).
 - **Part 3 — Other sea life.** Mammals, molluscs, cnidarians and reptiles:
   dolphin, whale, orca, narwhal, seal, sea lion, walrus, manatee, sea otter,
-  squid, nautilus, clam, sea snail, jellyfish, starfish,
+  nautilus, clam, sea snail, jellyfish, starfish,
   sea urchin, sea turtle, sea horse (if not in Part 1), coral, sea anemone.
 
 ## 5. Insects — planned

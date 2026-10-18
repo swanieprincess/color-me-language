@@ -48,6 +48,13 @@ These have more than one name in use; confirm with a native speaker:
 
 Octopus (문어 / たこ / 章魚) and cuttlefish (갑오징어 / こういか / 墨魚) moved into this
 book from the planned "other sea life" part, replacing remora and sea lettuce
-(sea lettuce overlapped nori and had uncertain names). The book is now 25 fish,
+(sea lettuce overlapped nori and had uncertain names). The book was then 25 fish,
 5 sea plants and 2 mollusks, so the working title is *Under the Sea, Volume 1*
 (matching *Animals, Volume 1*) rather than "Fish & Seaweed".
+
+## Theme: sea life from the dinner table (Swan, 2026-10-18)
+
+"We eat them a lot so it just makes sense." The book leans into sea life that
+children in Korea and Japan know from home cooking: 김, 미역, 다시마, 톳, 멸치, 고등어,
+갈치, 대구, 도미, 문어, 오징어, ふぐ, まぐろ, さんま and so on. Squid (오징어 / いか / 魷魚)
+added on that basis, replacing lionfish. Now 24 fish, 5 sea plants, 3 mollusks.
