@@ -1,7 +1,5 @@
 # Under the Sea — two-book lineup
 
-Volumes 2 and 3 were combined into one 32-page Volume 2 (Swan, 2026-10-18).
-
 Rules for every page (Swan): a **real name in all four languages** (no English
 sounded out in hangeul or katakana), **familiar to Korean kids**, and **no animal
 in more than one book** (checked against Animals, Volume 1 as well).
@@ -85,7 +83,7 @@ Overlap check (English and Korean names, all three books): **no animal appears t
 | 29 | Sea Squirt | 멍게 | ほや | 海鞘 | soft sea life |
 | 30 | Coral | 산호 | さんご | 珊瑚 | soft sea life |
 | 31 | Sea Anemone | 말미잘 | いそぎんちゃく | 海葵 | soft sea life |
-| 32 | Sea Slug | 갯민숭달팽이 | ウミウシ | 海蛞蝓 | soft sea life |
+| 32 | Nautilus | 앵무조개 | オウムガイ | 鸚鵡螺 | shellfish |
 
 ## Left out on purpose
 
@@ -107,6 +105,6 @@ Overlap check (English and Korean names, all three books): **no animal appears t
 - Not picked when Volumes 2 and 3 were combined (kept for a later book):
   fleshy prawn 대하, kuruma prawn 보리새우, sweet shrimp 단새우, crayfish 가재,
   gooseneck barnacle 거북손, pill bug 쥐며느리, sea slater 갯강구, water flea 물벼룩,
-  cockle 꼬막, razor clam 맛조개, pen shell 키조개, nautilus 앵무조개, gray whale 귀신고래,
+  cockle 꼬막, razor clam 맛조개, pen shell 키조개, sea slug 갯민숭달팽이, gray whale 귀신고래,
   finless porpoise 상괭이, fur seal 물개, polar bear 북극곰, sea snake 바다뱀 (→ Reptiles),
   sea hare 군소, spoon worm 개불.

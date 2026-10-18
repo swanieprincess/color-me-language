@@ -7,7 +7,7 @@ page,animal,english,korean,japanese,hanja_chinese,group,trinkets,check
 6,beluga,Beluga,흰고래,シロイルカ,白鯨,whales & dolphins,,"ko (often called 벨루가, a loanword)"
 7,narwhal,Narwhal,일각고래,イッカク,一角鯨,whales & dolphins,,
 8,spotted seal,Spotted Seal,점박이물범,ゴマフアザラシ,斑海豹,seals & friends,,Baengnyeongdo seals
-9,sea lion,Sea Lion,바다사자,アシカ,海獅,seals & friends,,Dokdo sea lion = 강치
+9,sea lion,Sea Lion,바다사자,アシカ,海獅,seals & friends,,
 10,walrus,Walrus,바다코끼리,セイウチ,海象,seals & friends,,
 11,sea otter,Sea Otter,해달,ラッコ,海獺,seals & friends,,
 12,sea turtle,Sea Turtle,바다거북,ウミガメ,海龜,reptiles & birds,,Animals Vol. 1 has a garden tortoise
@@ -30,4 +30,4 @@ page,animal,english,korean,japanese,hanja_chinese,group,trinkets,check
 29,sea squirt,Sea Squirt,멍게,ほや,海鞘,soft sea life,,
 30,coral,Coral,산호,さんご,珊瑚,soft sea life,,
 31,sea anemone,Sea Anemone,말미잘,いそぎんちゃく,海葵,soft sea life,,
-32,sea slug,Sea Slug,갯민숭달팽이,ウミウシ,海蛞蝓,soft sea life,,
+32,nautilus,Nautilus,앵무조개,オウムガイ,鸚鵡螺,shellfish,"spiral shell, bubbles, deep-sea sparkles",

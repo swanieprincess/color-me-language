@@ -17,6 +17,7 @@
 - Crabs (5): blue, snow, king, hermit, fiddler.
 - Shrimp & co. (4): shrimp, mantis shrimp, spiny lobster, barnacle.
 - Shellfish (5): clam, oyster, scallop, mussel, turban shell.
-- Soft sea life (5): sea cucumber, sea squirt, coral, sea anemone, sea slug.
+- Soft sea life (4): sea cucumber, sea squirt, coral, sea anemone.
+- Nautilus (앵무조개 / オウムガイ / 鸚鵡螺) kept at Swan's request, replacing sea slug.
 
 Words to double-check are marked in the `check` column of pages.csv.
