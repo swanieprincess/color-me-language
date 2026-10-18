@@ -23,13 +23,13 @@ Overlap check (English and Korean names, all three books): **no animal appears t
 | 6 | Jellyfish | 해파리 | くらげ | 水母 |
 | 7 | Tuna | 참치 | まぐろ | 鮪魚 |
 | 8 | Salmon | 연어 | さけ | 鮭魚 |
-| 9 | Sunfish | 개복치 | マンボウ | 翻車魚 |
+| 9 | Filefish | 쥐치 | カワハギ | 剝皮魚 |
 | 10 | Flying Fish | 날치 | トビウオ | 飛魚 |
 | 11 | Flying Fish Roe | 날치알 | とびこ | 飛魚卵 |
 | 12 | Abalone | 전복 | あわび | 鮑魚 |
 | 13 | Sea Bass | 농어 | すずき | 鱸魚 |
 | 14 | Starfish | 불가사리 | ひとで | 海星 |
-| 15 | Great White Shark | 백상아리 | ホホジロザメ | 大白鯊 |
+| 15 | Mudskipper | 짱뚱어 | ムツゴロウ | 彈塗魚 |
 | 16 | Whale Shark | 고래상어 | ジンベエザメ | 鯨鯊 |
 | 17 | Eel | 장어 | うなぎ | 鰻魚 |
 | 18 | Sea Urchin | 성게 | うに | 海膽 |
@@ -54,11 +54,11 @@ Overlap check (English and Korean names, all three books): **no animal appears t
 |---|---|---|---|---|---|
 | 1 | Blue Whale | 대왕고래 | シロナガスクジラ | 藍鯨 | whales & dolphins |
 | 2 | Humpback Whale | 혹등고래 | ザトウクジラ | 座頭鯨 | whales & dolphins |
-| 3 | Sperm Whale | 향유고래 | マッコウクジラ | 抹香鯨 | whales & dolphins |
+| 3 | Finless Porpoise | 상괭이 | スナメリ | 江豚 | whales & dolphins |
 | 4 | Orca | 범고래 | シャチ | 虎鯨 | whales & dolphins |
 | 5 | Dolphin | 돌고래 | イルカ | 海豚 | whales & dolphins |
 | 6 | Beluga | 흰고래 | シロイルカ | 白鯨 | whales & dolphins |
-| 7 | Narwhal | 일각고래 | イッカク | 一角鯨 | whales & dolphins |
+| 7 | Gray Whale | 귀신고래 | コククジラ | 灰鯨 | whales & dolphins |
 | 8 | Spotted Seal | 점박이물범 | ゴマフアザラシ | 斑海豹 | seals & friends |
 | 9 | Sea Lion | 바다사자 | アシカ | 海獅 | seals & friends |
 | 10 | Walrus | 바다코끼리 | セイウチ | 海象 | seals & friends |
@@ -72,8 +72,8 @@ Overlap check (English and Korean names, all three books): **no animal appears t
 | 18 | Fiddler Crab | 농게 | シオマネキ | 招潮蟹 | crab |
 | 19 | Shrimp | 새우 | えび | 蝦 | shrimp & lobster |
 | 20 | Mantis Shrimp | 갯가재 | しゃこ | 蝦蛄 | shrimp & lobster |
-| 21 | Spiny Lobster | 닭새우 | いせえび | 龍蝦 | shrimp & lobster |
-| 22 | Barnacle | 따개비 | フジツボ | 藤壺 | other crustacean |
+| 21 | Big Prawn | 대하 | コウライエビ | 大蝦 | shrimp & lobster |
+| 22 | Long-arm Octopus | 낙지 | テナガダコ | 長蛸 | soft sea life |
 | 23 | Clam | 바지락 | あさり | 花蛤 | shellfish |
 | 24 | Oyster | 굴 | かき | 牡蠣 | shellfish |
 | 25 | Scallop | 가리비 | ほたて | 扇貝 | shellfish |
@@ -105,6 +105,11 @@ Overlap check (English and Korean names, all three books): **no animal appears t
 - Not picked when Volumes 2 and 3 were combined (kept for a later book):
   fleshy prawn 대하, kuruma prawn 보리새우, sweet shrimp 단새우, crayfish 가재,
   gooseneck barnacle 거북손, pill bug 쥐며느리, sea slater 갯강구, water flea 물벼룩,
-  cockle 꼬막, razor clam 맛조개, pen shell 키조개, sea slug 갯민숭달팽이, gray whale 귀신고래,
-  finless porpoise 상괭이, fur seal 물개, polar bear 북극곰, sea snake 바다뱀 (→ Reptiles),
+  cockle 꼬막, razor clam 맛조개, pen shell 키조개, sea slug 갯민숭달팽이, 
+  fur seal 물개, polar bear 북극곰, sea snake 바다뱀 (→ Reptiles),
   sea hare 군소, spoon worm 개불.
+- Swapped out for Korean gems: sunfish, great white shark (Vol 1); sperm whale,
+  narwhal, spiny lobster, barnacle (Vol 2).
+- Korean gems still available: 주꾸미 webfoot octopus, 꼬막 cockle, 재첩 marsh clam,
+  가자미 flatfish, 숭어 mullet, 망둥어 goby, 삼치 Spanish mackerel, 청어 herring,
+  우뭇가사리 agar seaweed, 미더덕 warty sea squirt. 강치 avoided (Dokdo).

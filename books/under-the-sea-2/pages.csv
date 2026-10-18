@@ -1,11 +1,11 @@
 page,animal,english,korean,japanese,hanja_chinese,group,trinkets,check
 1,blue whale,Blue Whale,대왕고래,シロナガスクジラ,藍鯨,whales & dolphins,"a swarm of tiny krill, bubbles, sun rays (krill as decoration only, no name tag)",
 2,humpback whale,Humpback Whale,혹등고래,ザトウクジラ,座頭鯨,whales & dolphins,,
-3,sperm whale,Sperm Whale,향유고래,マッコウクジラ,抹香鯨,whales & dolphins,,
+3,finless porpoise,Finless Porpoise,상괭이,スナメリ,江豚,whales & dolphins,"waves, bubbles, small fish (smiling face)",
 4,orca,Orca,범고래,シャチ,虎鯨,whales & dolphins,,
 5,dolphin,Dolphin,돌고래,イルカ,海豚,whales & dolphins,,
 6,beluga,Beluga,흰고래,シロイルカ,白鯨,whales & dolphins,,"ko (often called 벨루가, a loanword)"
-7,narwhal,Narwhal,일각고래,イッカク,一角鯨,whales & dolphins,,
+7,gray whale,Gray Whale,귀신고래,コククジラ,灰鯨,whales & dolphins,"waves, spout, barnacle spots, small fish",
 8,spotted seal,Spotted Seal,점박이물범,ゴマフアザラシ,斑海豹,seals & friends,,Baengnyeongdo seals
 9,sea lion,Sea Lion,바다사자,アシカ,海獅,seals & friends,,
 10,walrus,Walrus,바다코끼리,セイウチ,海象,seals & friends,,
@@ -19,8 +19,8 @@ page,animal,english,korean,japanese,hanja_chinese,group,trinkets,check
 18,fiddler crab,Fiddler Crab,농게,シオマネキ,招潮蟹,crab,,
 19,shrimp,Shrimp,새우,えび,蝦,shrimp & lobster,,
 20,mantis shrimp,Mantis Shrimp,갯가재,しゃこ,蝦蛄,shrimp & lobster,,
-21,spiny lobster,Spiny Lobster,닭새우,いせえび,龍蝦,shrimp & lobster,,ko
-22,barnacle,Barnacle,따개비,フジツボ,藤壺,other crustacean,,
+21,big prawn,Big Prawn,대하,コウライエビ,大蝦,shrimp & lobster,"bubbles, seaweed, sand",zh
+22,long-arm octopus,Long-arm Octopus,낙지,テナガダコ,長蛸,soft sea life,"mudflat, shells, bubbles",zh
 23,clam,Clam,바지락,あさり,花蛤,shellfish,,
 24,oyster,Oyster,굴,かき,牡蠣,shellfish,,
 25,scallop,Scallop,가리비,ほたて,扇貝,shellfish,,

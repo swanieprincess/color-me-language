@@ -9,15 +9,19 @@
 
 ## Make-up (32)
 
-- Whales & dolphins (7): blue whale, humpback, sperm whale, orca, dolphin,
-  beluga, narwhal. The blue whale page has a swarm of tiny krill as decoration
+- Whales & dolphins (7): blue whale, humpback, gray whale (귀신고래), orca,
+  dolphin, beluga, finless porpoise (상괭이). The blue whale page has a swarm of tiny krill as decoration
   (krill has no real Korean name, so no name tag).
 - Seals & friends (4): spotted seal, sea lion, walrus, sea otter.
 - Sea turtle and seagull.
 - Crabs (5): blue, snow, king, hermit, fiddler.
-- Shrimp & co. (4): shrimp, mantis shrimp, spiny lobster, barnacle.
+- Shrimp (3): shrimp, big prawn (대하), mantis shrimp.
+- Long-arm octopus (낙지).
 - Shellfish (5): clam, oyster, scallop, mussel, turban shell.
 - Soft sea life (4): sea cucumber, sea squirt, coral, sea anemone.
 - Nautilus (앵무조개 / オウムガイ / 鸚鵡螺) kept at Swan's request, replacing sea slug.
 
 Words to double-check are marked in the `check` column of pages.csv.
+
+Korean gems swapped in (Swan approved 2026-10-18): 상괭이, 귀신고래, 대하, 낙지 replace
+sperm whale, narwhal, spiny lobster, barnacle.
