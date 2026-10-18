@@ -48,6 +48,6 @@ These have more than one name in use; confirm with a native speaker:
 
 Octopus (문어 / たこ / 章魚) and cuttlefish (갑오징어 / こういか / 墨魚) moved into this
 book from the planned "other sea life" part, replacing remora and sea lettuce
-(sea lettuce overlapped nori and had uncertain names). The book is now 24 fish,
+(sea lettuce overlapped nori and had uncertain names). The book is now 25 fish,
 5 sea plants and 2 mollusks, so the working title is *Under the Sea, Volume 1*
 (matching *Animals, Volume 1*) rather than "Fish & Seaweed".
