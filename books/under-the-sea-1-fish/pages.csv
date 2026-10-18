@@ -1,9 +1,9 @@
 page,animal,english,korean,japanese,hanja_chinese,trinkets,check
 1,clownfish,Clownfish,흰동가리,クマノミ,小丑魚,"sea anemone, bubbles, coral, shells, small fish",
-2,blue tang,Blue Tang,블루탱,ナンヨウハギ,藍倒吊,"coral reef, bubbles, seaweed, pebbles",zh
+2,cutlassfish,Cutlassfish,갈치,たちうお,帶魚,"moonlit waves, bubbles, small fish",
 3,pufferfish,Pufferfish,복어,ふぐ,河豚,"bubbles, coral, shells, seaweed",
 4,seahorse,Seahorse,해마,タツノオトシゴ,海馬,"seagrass, bubbles, pearls, tiny shells",
-5,angelfish,Angelfish,엔젤피시,エンゼルフィッシュ,神仙魚,"coral fans, bubbles, starfish, sand",zh ja
+5,yellowtail,Yellowtail,방어,ぶり,鰤魚,"waves, bubbles, school of fish",
 6,lionfish,Lionfish,쏠배감펭,ミノカサゴ,獅子魚,"coral, rocks, bubbles, seaweed",
 7,swordfish,Swordfish,황새치,メカジキ,劍魚,"waves, bubbles, sun rays, small fish",
 8,tuna,Tuna,참치,まぐろ,鮪魚,"waves, bubbles, school of fish",
@@ -27,7 +27,7 @@ page,animal,english,korean,japanese,hanja_chinese,trinkets,check
 26,cod,Cod,대구,たら,鱈魚,"cold waves, snowflakes, bubbles",
 27,flounder,Flounder,광어,ひらめ,比目魚,"sandy floor, shells, pebbles",
 28,sea bream,Sea Bream,도미,たい,真鯛,"waves, cherry blossoms, bubbles",zh
-29,blobfish,Blobfish,블롭피시,ニュウドウカジカ,水滴魚,"deep-sea bubbles, rocks, sparkles",ja zh
-30,leafy sea dragon,Leafy Sea Dragon,나뭇잎해룡,リーフィーシードラゴン,葉海龍,"seaweed, kelp, bubbles",
+29,sawfish,Sawfish,톱가오리,ノコギリエイ,鋸鰩,"sandy floor, shells, seaweed, bubbles",
+30,remora,Remora,빨판상어,コバンザメ,鮣魚,"friendly big shark shadow, bubbles, small fish",
 31,boxfish,Boxfish,거북복,ハコフグ,箱魨,"coral, bubbles, shells",
 32,porcupinefish,Porcupinefish,가시복,ハリセンボン,刺魨,"bubbles, coral, seaweed",

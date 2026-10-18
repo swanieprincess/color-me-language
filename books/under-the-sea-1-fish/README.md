@@ -21,15 +21,17 @@
   さば, いわし, たら, ひらめ, たい, さんま) and katakana for the rest, as in
   Volume 1.
 
+- **Every fish must have a real name in all four languages** (Swan,
+  2026-10-18): no English sounded out in hangeul or katakana. Blue tang
+  (블루탱), angelfish (엔젤피시), blobfish (블롭피시) and leafy sea dragon
+  (リーフィーシードラゴン) were dropped for this; cutlassfish (갈치 / たちうお /
+  帶魚), yellowtail (방어 / ぶり / 鰤魚), sawfish (톱가오리 / ノコギリエイ / 鋸鰩)
+  and remora (빨판상어 / コバンザメ / 鮣魚) took their places.
+
 ## Words to double-check (`check` column in pages.csv)
 
 These have more than one name in use; confirm with a native speaker:
 
-- Blue tang, zh: 藍倒吊 (Taiwan common name) vs 擬刺尾鯛.
-- Angelfish: 神仙魚 / エンゼルフィッシュ usually mean the freshwater angelfish;
-  the marine one is 蓋刺魚 / キンチャクダイ. Pick by which fish the art shows.
 - Moray eel, zh: 海鱔 vs 裸胸鱔.
 - Parrotfish, ko: 파랑비늘돔 is the standard name; 앵무고기 is heard too.
 - Sea bream, zh: 真鯛 (in Taiwan 鯛魚 often means tilapia).
-- Blobfish: ニュウドウカジカ / 水滴魚 are the usual names; check they read
-  naturally to a child.
