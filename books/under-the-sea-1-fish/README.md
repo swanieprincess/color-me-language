@@ -68,5 +68,9 @@ butterflyfish, parrotfish, moray eel, seagrass, swordfish. In: pollock (명태 /
 sea creatures (octopus, cuttlefish, squid, abalone, jellyfish).
 
 - Hammerhead shark dropped (not familiar to Korean kids); starfish (불가사리 / ひとで /
-  海星) in its place. The flying fish page also shows a little pile of its roe
-  (날치알 / とびこ) as a trinket, since kids know the roe better than the fish.
+  海星) in its place.
+- **Flying fish + its roe are a facing pair** (Swan, 2026-10-18): the flying
+  fish (날치 / トビウオ / 飛魚) on a left-hand page and Flying Fish Roe (날치알 / とびこ /
+  飛魚卵) on the right-hand page opposite. The only food page in the book.
+  Yellowtail dropped to keep 32 pages. Keep the flying fish on an even book page
+  if the order ever changes.
