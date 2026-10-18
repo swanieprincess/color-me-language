@@ -32,5 +32,6 @@
   background around the text and art. No comets. On a
   black & white interior it prints in grayscale; the same art in color goes on
   the front cover.
+- No page numbers (they fell inside KDP's 3/8 in bleed margin).
 - Export flattened; see docs/kdp-checklist.md.
 - Words use the everyday native term; see docs/art-direction.md.
