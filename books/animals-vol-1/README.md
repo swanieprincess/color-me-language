@@ -33,5 +33,9 @@
 - Print-ready interior PDF exported by Swan from Inkscape 2026-10-18 (34 pages,
   8.625 x 11.25 in, text as paths, glow rasterized at 300 ppi) is in the vault as
   `art/raw/print/learning-dojo-animals-vol1-interior.pdf`.
+- Print-ready cover PDF exported by Swan 2026-10-18 (17.3266 x 11.25 in, guides
+  removed, text as paths, glows at 300 ppi) is in the vault as
+  `art/raw/print/learning-dojo-animals-vol1-cover.pdf`. Both files checked;
+  next step is the KDP upload.
 - Export flattened; see docs/kdp-checklist.md.
 - Words use the everyday native term; see docs/art-direction.md.
