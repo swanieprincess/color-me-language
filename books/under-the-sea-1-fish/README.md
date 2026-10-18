@@ -1,4 +1,4 @@
-# The Learning Dojo: Under the Sea, Part 1 — Fish & Seaweed
+# The Learning Dojo: Under the Sea, Volume 1
 
 - Author: **Swan Moon**. Series: The Learning Dojo, book 2.
 - Status: **word list drafted, not yet reviewed**. Art not started.
@@ -36,8 +36,6 @@
 
 ## Words to double-check (`check` column in pages.csv)
 
-- Sea lettuce: 파래 / 石蓴 cover a few related green seaweeds; fine for a
-  children's book but confirm.
 - Seagrass, zh: 大葉藻 (eelgrass) vs the general 海草.
 
 These have more than one name in use; confirm with a native speaker:
@@ -45,3 +43,11 @@ These have more than one name in use; confirm with a native speaker:
 - Moray eel, zh: 海鱔 vs 裸胸鱔.
 - Parrotfish, ko: 파랑비늘돔 is the standard name; 앵무고기 is heard too.
 - Sea bream, zh: 真鯛 (in Taiwan 鯛魚 often means tilapia).
+
+## Octopus and cuttlefish (Swan, 2026-10-18)
+
+Octopus (문어 / たこ / 章魚) and cuttlefish (갑오징어 / こういか / 墨魚) moved into this
+book from the planned "other sea life" part, replacing remora and sea lettuce
+(sea lettuce overlapped nori and had uncertain names). The book is now 24 fish,
+5 sea plants and 2 mollusks, so the working title is *Under the Sea, Volume 1*
+(matching *Animals, Volume 1*) rather than "Fish & Seaweed".
