@@ -23,6 +23,6 @@
       paper: spine 34 × 0.002252 = 0.0766 in, document 17.3266 × 11.25 in). If the page count
       changes, re-run KDP's cover calculator and resize the spine. 300 dpi,
       0.125 in bleed, delete the GUIDES layer before export.
-- [ ] ISBN: free KDP ISBN or own.
+- [x] ISBN: free KDP ISBN 9798163318988 (printed on the copyright page).
 - [ ] Categories: Children's Coloring Books; Foreign Language Study.
 - [ ] Keywords: bilingual coloring book, Korean, Japanese, hanja, animals.

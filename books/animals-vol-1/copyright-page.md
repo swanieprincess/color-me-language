@@ -23,13 +23,13 @@ individual pages for personal, non-commercial use by their own children or
 students. Copies may not be sold, shared online, or used in any product.
 
 The animal names are given in English, Korean (hangeul), Japanese, and
-Hanja / traditional Chinese characters. Every care has been taken with the
-words in each language; corrections are welcome for future printings.
+Hanja / traditional Chinese characters. Every translation was carefully thought out in
+the words in each language; corrections are welcome for future printings.
 
 First edition, 2026.
 Independently published.
 
-ISBN: ______________
+ISBN: 9798163318988
 
 Printed on demand in the country of purchase.
 
@@ -40,8 +40,7 @@ Next in the series: *Under the Sea, Part 1 — Fish*
 
 ## Notes for layout
 
-- Replace the ISBN blank with the free KDP ISBN once it is assigned, or delete
-  the line (KDP does not require it printed inside).
+- ISBN 9798163318988 is the free KDP ISBN assigned 2026-10-18.
 - No email or website on this page; the author name is the only contact.
 - If the Korean, Japanese or Chinese words are ever checked by a native
   reviewer, add a line "Language review: <name>" above *First edition*.
