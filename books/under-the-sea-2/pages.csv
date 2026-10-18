@@ -1,33 +1,27 @@
 page,animal,english,korean,japanese,hanja_chinese,group,check
 1,blue crab,Blue Crab,꽃게,ガザミ,梭子蟹,crab,
 2,snow crab,Snow Crab,대게,ズワイガニ,雪蟹,crab,
-3,red snow crab,Red Snow Crab,홍게,ベニズワイガニ,紅楚蟹,crab,zh
-4,hair crab,Hair Crab,털게,ケガニ,毛蟹,crab,zh (毛蟹 can mean mitten crab)
-5,king crab,King Crab,왕게,タラバガニ,帝王蟹,crab,"ko (kids say 킹크랩, a loanword)"
-6,mitten crab,Mitten Crab,참게,モクズガニ,絨螯蟹,crab,zh
-7,hermit crab,Hermit Crab,소라게,ヤドカリ,寄居蟹,crab,
-8,fiddler crab,Fiddler Crab,농게,シオマネキ,招潮蟹,crab,
-9,ghost crab,Ghost Crab,달랑게,スナガニ,沙蟹,crab,
-10,coconut crab,Coconut Crab,야자집게,ヤシガニ,椰子蟹,crab,
-11,spider crab,Spider Crab,키다리게,タカアシガニ,高腳蟹,crab,zh
-12,shrimp,Shrimp,새우,えび,蝦,shrimp & lobster,
-13,fleshy prawn,Fleshy Prawn,대하,コウライエビ,大蝦,shrimp & lobster,zh
-14,kuruma prawn,Kuruma Prawn,보리새우,くるまえび,斑節蝦,shrimp & lobster,
-15,sweet shrimp,Sweet Shrimp,단새우,あまえび,甜蝦,shrimp & lobster,
-16,spiny lobster,Spiny Lobster,닭새우,いせえび,龍蝦,shrimp & lobster,ko
-17,mantis shrimp,Mantis Shrimp,갯가재,しゃこ,蝦蛄,shrimp & lobster,
-18,crayfish,Crayfish,가재,ザリガニ,螯蝦,shrimp & lobster,lives in fresh water
-19,barnacle,Barnacle,따개비,フジツボ,藤壺,other crustacean,
-20,gooseneck barnacle,Gooseneck Barnacle,거북손,カメノテ,龜足,other crustacean,
-21,pill bug,Pill Bug,쥐며느리,ダンゴムシ,鼠婦,other crustacean,lives on land
-22,sea slater,Sea Slater,갯강구,フナムシ,海蟑螂,other crustacean,
-23,water flea,Water Flea,물벼룩,ミジンコ,水蚤,other crustacean,
-24,clam,Clam,바지락,あさり,花蛤,shellfish,
-25,oyster,Oyster,굴,かき,牡蠣,shellfish,
-26,scallop,Scallop,가리비,ほたて,扇貝,shellfish,
-27,mussel,Mussel,홍합,いがい,貽貝,shellfish,"ja (kids say ムール貝, a loanword)"
-28,cockle,Cockle,꼬막,はいがい,血蚶,shellfish,ja
-29,turban shell,Turban Shell,소라,さざえ,蠑螺,shellfish,
-30,razor clam,Razor Clam,맛조개,まてがい,竹蟶,shellfish,zh
-31,pen shell,Pen Shell,키조개,たいらぎ,江珧,shellfish,
-32,nautilus,Nautilus,앵무조개,オウムガイ,鸚鵡螺,shellfish,
+3,king crab,King Crab,왕게,タラバガニ,帝王蟹,crab,"ko (kids say 킹크랩, a loanword)"
+4,hermit crab,Hermit Crab,소라게,ヤドカリ,寄居蟹,crab,
+5,fiddler crab,Fiddler Crab,농게,シオマネキ,招潮蟹,crab,
+6,shrimp,Shrimp,새우,えび,蝦,shrimp & lobster,
+7,fleshy prawn,Fleshy Prawn,대하,コウライエビ,大蝦,shrimp & lobster,zh
+8,kuruma prawn,Kuruma Prawn,보리새우,くるまえび,斑節蝦,shrimp & lobster,
+9,sweet shrimp,Sweet Shrimp,단새우,あまえび,甜蝦,shrimp & lobster,
+10,spiny lobster,Spiny Lobster,닭새우,いせえび,龍蝦,shrimp & lobster,ko
+11,mantis shrimp,Mantis Shrimp,갯가재,しゃこ,蝦蛄,shrimp & lobster,
+12,crayfish,Crayfish,가재,ザリガニ,螯蝦,shrimp & lobster,lives in fresh water
+13,barnacle,Barnacle,따개비,フジツボ,藤壺,other crustacean,
+14,gooseneck barnacle,Gooseneck Barnacle,거북손,カメノテ,龜足,other crustacean,
+15,pill bug,Pill Bug,쥐며느리,ダンゴムシ,鼠婦,other crustacean,lives on land
+16,sea slater,Sea Slater,갯강구,フナムシ,海蟑螂,other crustacean,
+17,water flea,Water Flea,물벼룩,ミジンコ,水蚤,other crustacean,
+18,clam,Clam,바지락,あさり,花蛤,shellfish,
+19,oyster,Oyster,굴,かき,牡蠣,shellfish,
+20,scallop,Scallop,가리비,ほたて,扇貝,shellfish,
+21,mussel,Mussel,홍합,いがい,貽貝,shellfish,"ja (kids say ムール貝, a loanword)"
+22,cockle,Cockle,꼬막,はいがい,血蚶,shellfish,ja
+23,turban shell,Turban Shell,소라,さざえ,蠑螺,shellfish,
+24,razor clam,Razor Clam,맛조개,まてがい,竹蟶,shellfish,zh
+25,pen shell,Pen Shell,키조개,たいらぎ,江珧,shellfish,
+26,nautilus,Nautilus,앵무조개,オウムガイ,鸚鵡螺,shellfish,

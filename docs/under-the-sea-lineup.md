@@ -1,14 +1,14 @@
-# Under the Sea — three-book lineup (draft, 2026-10-18)
+# Under the Sea — three-book lineup (draft)
 
 Rules for every page (Swan): a **real name in all four languages** (no English
 sounded out in hangeul or katakana), **familiar to Korean kids**, and **no animal
 in more than one book** (checked against Animals, Volume 1 as well).
 
-| Book | Theme | Pages | Status |
-|---|---|---|---|
-| Under the Sea, Volume 1 | fish, seaweed, squid & octopus, starfish, urchin | 32 | list agreed |
-| Under the Sea, Volume 2 | **Shells & Claws**: crabs, shrimp, lobster, barnacles, shellfish | 32 | draft |
-| Under the Sea, Volume 3 | **Sea Mammals & Friends**: whales, seals, sea turtle, gull, soft sea life | 25 | draft, short |
+| Book | Theme | Pages |
+|---|---|---|
+| Under the Sea, Volume 1 | fish, seaweed, squid & octopus, starfish, urchin | 32 |
+| Under the Sea, Volume 2 | Shells & Claws: crabs, shrimp, lobster, barnacles, shellfish | 26 |
+| Under the Sea, Volume 3 | Sea Mammals & Friends: whales, seals, sea turtle, gull, soft sea life | 25 |
 
 Overlap check (English and Korean names, all four books): **no animal appears twice.**
 
@@ -49,44 +49,38 @@ Overlap check (English and Korean names, all four books): **no animal appears tw
 | 31 | Kelp | 다시마 | こんぶ | 昆布 |
 | 32 | Nori | 김 | のり | 紫菜 |
 
-## Volume 2 — Shells & Claws (draft)
+## Volume 2 — Shells & Claws
 
 | # | English | 한국어 | 日本語 | 漢字 | Group |
 |---|---|---|---|---|---|
 | 1 | Blue Crab | 꽃게 | ガザミ | 梭子蟹 | crab |
 | 2 | Snow Crab | 대게 | ズワイガニ | 雪蟹 | crab |
-| 3 | Red Snow Crab | 홍게 | ベニズワイガニ | 紅楚蟹 | crab |
-| 4 | Hair Crab | 털게 | ケガニ | 毛蟹 | crab |
-| 5 | King Crab | 왕게 | タラバガニ | 帝王蟹 | crab |
-| 6 | Mitten Crab | 참게 | モクズガニ | 絨螯蟹 | crab |
-| 7 | Hermit Crab | 소라게 | ヤドカリ | 寄居蟹 | crab |
-| 8 | Fiddler Crab | 농게 | シオマネキ | 招潮蟹 | crab |
-| 9 | Ghost Crab | 달랑게 | スナガニ | 沙蟹 | crab |
-| 10 | Coconut Crab | 야자집게 | ヤシガニ | 椰子蟹 | crab |
-| 11 | Spider Crab | 키다리게 | タカアシガニ | 高腳蟹 | crab |
-| 12 | Shrimp | 새우 | えび | 蝦 | shrimp & lobster |
-| 13 | Fleshy Prawn | 대하 | コウライエビ | 大蝦 | shrimp & lobster |
-| 14 | Kuruma Prawn | 보리새우 | くるまえび | 斑節蝦 | shrimp & lobster |
-| 15 | Sweet Shrimp | 단새우 | あまえび | 甜蝦 | shrimp & lobster |
-| 16 | Spiny Lobster | 닭새우 | いせえび | 龍蝦 | shrimp & lobster |
-| 17 | Mantis Shrimp | 갯가재 | しゃこ | 蝦蛄 | shrimp & lobster |
-| 18 | Crayfish | 가재 | ザリガニ | 螯蝦 | shrimp & lobster |
-| 19 | Barnacle | 따개비 | フジツボ | 藤壺 | other crustacean |
-| 20 | Gooseneck Barnacle | 거북손 | カメノテ | 龜足 | other crustacean |
-| 21 | Pill Bug | 쥐며느리 | ダンゴムシ | 鼠婦 | other crustacean |
-| 22 | Sea Slater | 갯강구 | フナムシ | 海蟑螂 | other crustacean |
-| 23 | Water Flea | 물벼룩 | ミジンコ | 水蚤 | other crustacean |
-| 24 | Clam | 바지락 | あさり | 花蛤 | shellfish |
-| 25 | Oyster | 굴 | かき | 牡蠣 | shellfish |
-| 26 | Scallop | 가리비 | ほたて | 扇貝 | shellfish |
-| 27 | Mussel | 홍합 | いがい | 貽貝 | shellfish |
-| 28 | Cockle | 꼬막 | はいがい | 血蚶 | shellfish |
-| 29 | Turban Shell | 소라 | さざえ | 蠑螺 | shellfish |
-| 30 | Razor Clam | 맛조개 | まてがい | 竹蟶 | shellfish |
-| 31 | Pen Shell | 키조개 | たいらぎ | 江珧 | shellfish |
-| 32 | Nautilus | 앵무조개 | オウムガイ | 鸚鵡螺 | shellfish |
+| 3 | King Crab | 왕게 | タラバガニ | 帝王蟹 | crab |
+| 4 | Hermit Crab | 소라게 | ヤドカリ | 寄居蟹 | crab |
+| 5 | Fiddler Crab | 농게 | シオマネキ | 招潮蟹 | crab |
+| 6 | Shrimp | 새우 | えび | 蝦 | shrimp & lobster |
+| 7 | Fleshy Prawn | 대하 | コウライエビ | 大蝦 | shrimp & lobster |
+| 8 | Kuruma Prawn | 보리새우 | くるまえび | 斑節蝦 | shrimp & lobster |
+| 9 | Sweet Shrimp | 단새우 | あまえび | 甜蝦 | shrimp & lobster |
+| 10 | Spiny Lobster | 닭새우 | いせえび | 龍蝦 | shrimp & lobster |
+| 11 | Mantis Shrimp | 갯가재 | しゃこ | 蝦蛄 | shrimp & lobster |
+| 12 | Crayfish | 가재 | ザリガニ | 螯蝦 | shrimp & lobster |
+| 13 | Barnacle | 따개비 | フジツボ | 藤壺 | other crustacean |
+| 14 | Gooseneck Barnacle | 거북손 | カメノテ | 龜足 | other crustacean |
+| 15 | Pill Bug | 쥐며느리 | ダンゴムシ | 鼠婦 | other crustacean |
+| 16 | Sea Slater | 갯강구 | フナムシ | 海蟑螂 | other crustacean |
+| 17 | Water Flea | 물벼룩 | ミジンコ | 水蚤 | other crustacean |
+| 18 | Clam | 바지락 | あさり | 花蛤 | shellfish |
+| 19 | Oyster | 굴 | かき | 牡蠣 | shellfish |
+| 20 | Scallop | 가리비 | ほたて | 扇貝 | shellfish |
+| 21 | Mussel | 홍합 | いがい | 貽貝 | shellfish |
+| 22 | Cockle | 꼬막 | はいがい | 血蚶 | shellfish |
+| 23 | Turban Shell | 소라 | さざえ | 蠑螺 | shellfish |
+| 24 | Razor Clam | 맛조개 | まてがい | 竹蟶 | shellfish |
+| 25 | Pen Shell | 키조개 | たいらぎ | 江珧 | shellfish |
+| 26 | Nautilus | 앵무조개 | オウムガイ | 鸚鵡螺 | shellfish |
 
-## Volume 3 — Sea Mammals & Friends (draft)
+## Volume 3 — Sea Mammals & Friends
 
 | # | English | 한국어 | 日本語 | 漢字 | Group |
 |---|---|---|---|---|---|
@@ -127,4 +121,7 @@ Overlap check (English and Korean names, all four books): **no animal appears tw
   yellowtail, sand dollar; seaweeds hijiki, sea lettuce, seagrass.
 - Already in Animals, Volume 1: penguin, swan, duck (sea turtle and polar bear
   are different animals from the garden tortoise and the bear there).
+- Too many crabs (Swan): Volume 2 keeps five — blue, snow, king, hermit,
+  fiddler. Dropped: red snow crab 홍게, hair crab 털게, mitten crab 참게, ghost crab
+  달랑게, coconut crab 야자집게, spider crab 키다리게.
 - Horseshoe crab is not a crustacean (closer to spiders); left out.
