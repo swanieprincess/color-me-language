@@ -28,7 +28,7 @@ crab, octopus, shark, whale, seal, sea turtle, fish, jellyfish, starfish.
   spider crab, king crab, pill bug (woodlouse, a land crustacean).
 - **Part 3 — Other sea life.** Mammals, molluscs, cnidarians and reptiles:
   dolphin, whale, orca, narwhal, seal, sea lion, walrus, manatee, sea otter,
-  nautilus, clam, sea snail, starfish,
+  nautilus, clam, sea snail,
   sea urchin, sea turtle, sea horse (if not in Part 1), coral, sea anemone.
 
 ## 5. Insects — planned

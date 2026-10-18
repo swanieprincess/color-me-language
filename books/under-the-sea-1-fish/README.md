@@ -66,3 +66,7 @@ butterflyfish, parrotfish, moray eel, seagrass, swordfish. In: pollock (명태 /
 明太魚), yellow croaker (조기 / キグチ / 黃魚), eel (장어 / うなぎ / 鰻魚), abalone (전복 /
 あわび / 鮑魚), jellyfish (해파리 / くらげ / 水母). Now 23 fish, 4 sea plants, 5 other
 sea creatures (octopus, cuttlefish, squid, abalone, jellyfish).
+
+- Hammerhead shark dropped (not familiar to Korean kids); starfish (불가사리 / ひとで /
+  海星) in its place. The flying fish page also shows a little pile of its roe
+  (날치알 / とびこ) as a trinket, since kids know the roe better than the fish.
