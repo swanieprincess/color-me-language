@@ -16,7 +16,10 @@ crab, octopus, shark, whale, seal, sea turtle, fish, jellyfish, starfish.
 
 ## 2–4. Under the Sea — a three-part series
 
-- **Part 1 — Fish.** Candidates: clownfish, goldfish, angelfish, pufferfish,
+- **Part 1 — Fish & Seaweed.** 26 saltwater fish + 6 sea plants (nori, kelp,
+  wakame, hijiki, sea lettuce, seagrass); every name must be a real word in all
+  four languages. Word list: books/under-the-sea-1-fish/pages.csv. Original
+  fish candidates: clownfish, goldfish, angelfish, pufferfish,
   seahorse, swordfish, tuna, salmon, betta, koi, flying fish, sunfish,
   lionfish, blue tang, catfish, eel, manta ray, stingray, hammerhead shark,
   great white shark.

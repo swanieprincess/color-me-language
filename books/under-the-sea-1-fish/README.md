@@ -1,4 +1,4 @@
-# The Learning Dojo: Under the Sea, Part 1 — Fish
+# The Learning Dojo: Under the Sea, Part 1 — Fish & Seaweed
 
 - Author: **Swan Moon**. Series: The Learning Dojo, book 2.
 - Status: **word list drafted, not yet reviewed**. Art not started.
@@ -8,7 +8,12 @@
 
 ## Draft decisions
 
-- **Saltwater fish only**, to match "Under the Sea". Sharks and rays are fish,
+- **Saltwater fish and sea plants** (Swan, 2026-10-18: "you can use aquatic life
+  like flora as well; seaweed is a big one"). 26 fish + 6 sea plants: nori,
+  kelp, wakame, hijiki, sea lettuce, seagrass. Sea plants get kawaii faces like
+  the animals. Dropped to make room: porcupinefish, boxfish, sailfish,
+  barracuda, sardine, manta ray.
+- Fish are saltwater only, to match "Under the Sea". Sharks and rays are fish,
   so they belong here; crustaceans (Part 2) and sea mammals, octopus,
   jellyfish, starfish and sea turtles (Part 3) do not. A starfish or jellyfish
   may still appear as a small background trinket.
@@ -29,6 +34,10 @@
   and remora (빨판상어 / コバンザメ / 鮣魚) took their places.
 
 ## Words to double-check (`check` column in pages.csv)
+
+- Sea lettuce: 파래 / 石蓴 cover a few related green seaweeds; fine for a
+  children's book but confirm.
+- Seagrass, zh: 大葉藻 (eelgrass) vs the general 海草.
 
 These have more than one name in use; confirm with a native speaker:
 

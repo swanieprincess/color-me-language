@@ -10,7 +10,7 @@ page,animal,english,korean,japanese,hanja_chinese,trinkets,check
 9,salmon,Salmon,연어,さけ,鮭魚,"waves, river rocks, bubbles, eggs",
 10,flying fish,Flying Fish,날치,トビウオ,飛魚,"waves, clouds, sun, spray",
 11,ocean sunfish,Sunfish,개복치,マンボウ,翻車魚,"sun rays, bubbles, jellyfish, waves",
-12,manta ray,Manta Ray,만타가오리,マンタ,鬼蝠魟,"sun rays, bubbles, small fish",
+12,seagrass,Seagrass,잘피,アマモ,大葉藻,"sandy floor, seahorse friend, bubbles",zh
 13,stingray,Stingray,가오리,エイ,魟魚,"sandy floor, shells, bubbles, seaweed",
 14,hammerhead shark,Hammerhead Shark,귀상어,シュモクザメ,雙髻鯊,"bubbles, small fish, kelp",
 15,great white shark,Great White Shark,백상아리,ホホジロザメ,大白鯊,"bubbles, waves, kelp (friendly smiling shark)",
@@ -20,14 +20,14 @@ page,animal,english,korean,japanese,hanja_chinese,trinkets,check
 19,parrotfish,Parrotfish,파랑비늘돔,ブダイ,鸚哥魚,"coral, sand, bubbles",ko
 20,butterflyfish,Butterflyfish,나비고기,チョウチョウウオ,蝴蝶魚,"coral, bubbles, sea fans",
 21,saury,Saury,꽁치,さんま,秋刀魚,"waves, autumn leaves, moon",
-22,barracuda,Barracuda,꼬치고기,カマス,梭魚,"bubbles, seaweed, small fish",
-23,sailfish,Sailfish,돛새치,バショウカジキ,旗魚,"waves, sun, spray",
+22,hijiki,Hijiki,톳,ひじき,羊栖菜,"tide-pool rocks, bubbles, pebbles",
+23,wakame,Wakame,미역,わかめ,裙帶菜,"rocks, bubbles, shells, small fish",
 24,mackerel,Mackerel,고등어,さば,鯖魚,"waves, school of fish, bubbles",
-25,sardine,Sardine,정어리,いわし,沙丁魚,"school of fish, bubbles, waves",
+25,sea lettuce,Sea Lettuce,파래,あおさ,石蓴,"rocks, shells, bubbles, sand",ko zh
 26,cod,Cod,대구,たら,鱈魚,"cold waves, snowflakes, bubbles",
 27,flounder,Flounder,광어,ひらめ,比目魚,"sandy floor, shells, pebbles",
 28,sea bream,Sea Bream,도미,たい,真鯛,"waves, cherry blossoms, bubbles",zh
 29,sawfish,Sawfish,톱가오리,ノコギリエイ,鋸鰩,"sandy floor, shells, seaweed, bubbles",
 30,remora,Remora,빨판상어,コバンザメ,鮣魚,"friendly big shark shadow, bubbles, small fish",
-31,boxfish,Boxfish,거북복,ハコフグ,箱魨,"coral, bubbles, shells",
-32,porcupinefish,Porcupinefish,가시복,ハリセンボン,刺魨,"bubbles, coral, seaweed",
+31,kelp,Kelp,다시마,こんぶ,昆布,"tall kelp forest, sun rays, small fish, bubbles",
+32,nori,Nori,김,のり,紫菜,"rocks, bubbles, tiny fish, shells",
