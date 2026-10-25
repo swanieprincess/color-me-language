@@ -19,12 +19,10 @@ as print-ready PDFs for Amazon KDP.
 
 | # | Title | Status | Pages |
 |---|-------|--------|-------|
-| 1 | The Learning Dojo: Animals, Volume 1 | interior and full-wrap cover built in Inkscape (34 pages) | 34 |
-| 2 | Under the Sea, Volume 1 | word list drafted ([books/under-the-sea-1-fish](books/under-the-sea-1-fish/README.md)) | 32 |
-| 3 | Under the Sea, Volume 2 | word list drafted ([books/under-the-sea-2](books/under-the-sea-2/README.md)) | 32 |
-| 5 | Insects | planned | — |
-| 6 | Amphibians | planned | — |
-| 7 | Reptiles | planned | — |
+| 1 | The Learning Dojo: Animals, Volume 1 | published on Amazon | 34 |
+| 2 | The Learning Dojo: Marine Life | word list drafted ([books/marine-life](books/marine-life/README.md)) | 32 |
+| 3 | Rivers & Ponds | draft list under review | — |
+| 4 | Insects | planned | — |
 
 See [docs/series-plan.md](docs/series-plan.md) for scope rules and candidate
 animal lists for each book.

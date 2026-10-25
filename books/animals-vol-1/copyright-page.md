@@ -41,6 +41,9 @@ Next in the series: *Under the Sea, Part 1 — Fish*
 ## Notes for layout
 
 - ISBN 9798163318988 is the free KDP ISBN assigned 2026-10-18.
+- The printed first edition says "Next in the series: Under the Sea, Part 1 —
+  Fish". That book is now *Marine Life* (2026-10-25). Change the line if a
+  revised interior is ever uploaded.
 - No email or website on this page; the author name is the only contact.
 - If the Korean, Japanese or Chinese words are ever checked by a native
   reviewer, add a line "Language review: <name>" above *First edition*.

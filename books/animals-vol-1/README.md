@@ -19,7 +19,7 @@
 ## Decisions
 
 - No sea animals in this volume (dolphin removed; turtle redrawn as a garden
-  tortoise). Sea life goes into the Under the Sea series.
+  tortoise). Sea life goes into *Marine Life*.
 - Penguin wears a winter beanie and scarf.
 - Swan wears a small crown and keeps the black bill knob and mask (mute swan).
 - Title page (and the front cover, which reuses it): Swan's colored three-animal

@@ -1,0 +1,33 @@
+page,animal,english,korean,japanese,hanja_chinese,group,trinkets,check
+1,shark,Shark,상어,さめ,鯊魚,fish,"waves, bubbles, a school of little fish, friendly smile (no sharp teeth showing)",
+2,tuna,Tuna,참치,まぐろ,鮪魚,fish,"waves, bubbles, school of fish",
+3,salmon,Salmon,연어,さけ,鮭魚,fish,"waves, river rocks, bubbles, eggs",
+4,mackerel,Mackerel,고등어,さば,鯖魚,fish,"waves, school of fish, bubbles",
+5,anchovy,Anchovy,멸치,かたくちいわし,鯷魚,fish,"school of tiny fish, bubbles, waves, seaweed",
+6,cod,Cod,대구,たら,鱈魚,fish,"cold waves, snowflakes, bubbles",
+7,clownfish,Clownfish,흰동가리,クマノミ,小丑魚,fish,"a sea anemone home (decoration only, no name tag), coral, bubbles","ko (kids also say 니모, after the movie)"
+8,pufferfish,Pufferfish,복어,ふぐ,河豚,fish,"bubbles, coral, shells, seaweed",
+9,seahorse,Seahorse,해마,タツノオトシゴ,海馬,fish,"seagrass, bubbles, pearls, tiny shells",
+10,flying fish,Flying Fish,날치,トビウオ,飛魚,fish,"waves, sun, clouds, spray",
+11,eel,Eel,장어,うなぎ,鰻魚,fish,"river-mouth rocks, bubbles, seaweed",
+12,anglerfish,Anglerfish,아귀,アンコウ,鮟鱇,fish,"glowing lure, dark-sea sparkles, bubbles",
+13,stingray,Stingray,가오리,えい,魟魚,fish,"sandy sea floor, shells, pebbles, bubbles",zh (also 鰩魚)
+14,octopus,Octopus,문어,たこ,章魚,soft sea life,"rocks, shells, bubbles, little treasure pot",
+15,squid,Squid,오징어,いか,魷魚,soft sea life,"bubbles, seaweed, little ink drops, small fish",
+16,jellyfish,Jellyfish,해파리,くらげ,水母,soft sea life,"bubbles, sun rays, little fish, sparkles",
+17,starfish,Starfish,불가사리,ひとで,海星,soft sea life,"sandy beach, shells, pebbles, bubbles",
+18,hermit crab,Hermit Crab,소라게,ヤドカリ,寄居蟹,shells & claws,,
+19,turban shell,Turban Shell,소라,さざえ,蠑螺,shells & claws,,
+20,blue crab,Blue Crab,꽃게,ガザミ,梭子蟹,shells & claws,,
+21,shrimp,Shrimp,새우,えび,蝦,shells & claws,,
+22,nautilus,Nautilus,앵무조개,オウムガイ,鸚鵡螺,shells & claws,"spiral shell, bubbles, deep-sea sparkles",
+23,sea turtle,Sea Turtle,바다거북,ウミガメ,海龜,shore & sea,,Animals Vol. 1 has a garden tortoise
+24,dolphin,Dolphin,돌고래,イルカ,海豚,whales & dolphins,,
+25,orca,Orca,범고래,シャチ,虎鯨,whales & dolphins,,
+26,blue whale,Blue Whale,대왕고래,シロナガスクジラ,藍鯨,whales & dolphins,"a swarm of tiny krill, bubbles, sun rays (krill as decoration only, no name tag)",
+27,spotted seal,Spotted Seal,점박이물범,ゴマフアザラシ,斑海豹,shore & sea,,Baengnyeongdo seals
+28,sea lion,Sea Lion,바다사자,アシカ,海獅,shore & sea,,
+29,walrus,Walrus,바다코끼리,セイウチ,海象,shore & sea,"ice floe, bubbles, fish",
+30,sea otter,Sea Otter,해달,ラッコ,海獺,shore & sea,"floating on its back, kelp, a shell to crack, bubbles",
+31,seagull,Seagull,갈매기,かもめ,海鷗,shore & sea,,
+32,nori,Nori,김,のり,紫菜,seaweed,"rocks, bubbles, tiny fish, shells",
