@@ -17,20 +17,22 @@ Published on Amazon (2026-10).
 
 ## 2. Marine Life — word list drafted
 
-One 32-page book (Swan, 2026-10-25), replacing the two planned Under the Sea
-volumes. Renamed because seals, sea lions, walruses, sea otters, sea turtles,
-hermit crabs and seagulls are not strictly underwater. Word list:
-books/marine-life/pages.csv. Lineup, cut list and overlap check:
+One book of 52 animal pages (Swan, 2026-10-25: at least 50 pages, ocean and
+shore only), replacing the two planned Under the Sea volumes. Renamed because
+seals, sea lions, walruses, sea otters, polar bears, sea turtles, hermit crabs
+and seagulls are not strictly underwater. Word list:
+books/marine-life/pages.csv. Lineup, unused names and overlap check:
 docs/marine-life-lineup.md.
 
-## 3. Rivers & Ponds — draft list, under review
+## Dropped as too narrow (Swan, 2026-10-25)
 
-Freshwater animals, opening with the river snail 다슬기 (Swan's pick). Frogs, tadpoles, toads, salamanders, the soft-shell
-turtle 자라 and the crocodile go here, so there is no separate Amphibians book.
-No insects (they get their own book). The draft list is waiting on a check of
-how familiar each name is; it is not in the repo yet.
+Rivers & Ponds, a crustaceans book and a separate amphibians book are too
+granular. Books should be broad, with 50+ pages. Freshwater favourites (river
+snail 다슬기, frog and tadpole, carp, catfish, crayfish, soft-shell turtle 자라,
+river otter, crane, mandarin duck, lotus) are kept as candidates for a later
+broad book.
 
-## 4. Insects — planned
+## 3. Insects — planned
 
 Candidates: ladybug, butterfly, bee, dragonfly, ant, grasshopper, beetle,
 firefly, caterpillar, moth, praying mantis, cricket, stick insect, cicada,
@@ -40,9 +42,11 @@ decide whether to allow a "bugs" catch-all or keep it strict.
 
 ## Not decided
 
-- Reptiles: too few familiar candidates for 32 pages once the water reptiles
-  move to Rivers & Ponds. Idea: an Animals, Volume 2 with more land animals and
-  a few land reptiles (gecko, chameleon, iguana, snake).
+- Reptiles: too few familiar candidates for a 50-page book on their own. Idea:
+  a broad Animals, Volume 2 with more land animals, the freshwater favourites
+  above and a few reptiles (gecko, chameleon, iguana, snake, crocodile).
+- Insects: check there are 50+ familiar insects with real names in all four
+  languages, or widen it (for example, bugs and garden creatures).
 
 ## Decided
 
