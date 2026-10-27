@@ -78,3 +78,11 @@ for the sea otter).
 - Pollock page: two wavy current lines under the fish are still in the art.
   Erase them for free in the print clean-up (white them out before tracing)
   rather than spending more credits.
+- **True to the real animal** (Swan, 2026-10-27, sunfish and flounder). Cute,
+  but the body plan and habits must be right: the sunfish in side view, with
+  its eye at the front and its tall fins at the back; the flounder lying flat
+  in the sand, both eyes together at the front tip of the head, an open mouth
+  with tiny teeth, fringe fins along the top and bottom edges, and its spots.
+  Bottom-dwellers rest on the sea floor, not above it. Spell the anatomy out
+  in the prompt; the model's default "cute fish" face gets these wrong.
+- Pages 10–17 (batch 2) done 2026-10-27; the sunfish and flounder were redrawn.
