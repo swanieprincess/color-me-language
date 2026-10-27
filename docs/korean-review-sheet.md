@@ -1,5 +1,8 @@
 # Korean word review sheet — Marine Life
 
+**Status: names approved by Swan (2026-10-27).** Kept for a native speaker's
+optional second look.
+
 For a native Korean speaker to check. Each word should be (1) the normal everyday
 name, (2) known to a Korean child, and (3) spelled right. Tick OK, or write a better
 word. The pronunciation column is the official romanized spelling, so it is only a
