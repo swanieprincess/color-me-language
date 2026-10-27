@@ -65,5 +65,12 @@ for the sea otter).
 - Test pages approved by Swan: shark, octopus, sea otter, clownfish.
 - **Clouds only in the sky** (Swan, 2026-10-27: "why are there clouds in the
   water"). Swirl clouds go above the waterline, never underwater. Underwater
-  scenes use bubbles, seaweed and swirling water currents instead, and a page
-  with clouds must show the sky and the waterline.
+  scenes use bubbles and seaweed instead, and a page with clouds must show
+  the sky and the waterline.
+- **No wave lines underwater** (Swan, 2026-10-27: "there doesn't need to be
+  waves underneath him"). Waves belong at the waterline only. Below it: plain
+  water with bubbles, seaweed, rocks and little fish, plus the seigaiha band on
+  the sea floor.
+- Pollock page: two wavy current lines under the fish are still in the art.
+  Erase them for free in the print clean-up (white them out before tracing)
+  rather than spending more credits.
