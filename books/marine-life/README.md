@@ -28,6 +28,12 @@
   sea otter, seagull.
 - Seaweed (3): kelp, wakame, nori.
 
+## Did you know? introduction
+
+The cultural facts go in an introductory section at the front of the book, not
+on the animal pages (Swan, 2026-10-27). Draft: [did-you-know.md](did-you-know.md).
+Keep it an even number of pages so the facing pairs stay left and right.
+
 ## Rules
 
 - Every page is hand-picked for cultural meaning in Korea, Japan or China
