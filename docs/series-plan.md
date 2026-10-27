@@ -50,6 +50,9 @@ decide whether to allow a "bugs" catch-all or keep it strict.
 
 ## Decided
 
+- Audience: **children ages 3–12** (Swan, 2026-10-27). All words, facts and
+  intro text stay simple, friendly and easy to read aloud.
+
 - Series title: **The Learning Dojo**. Each book is "The Learning Dojo:
   <subject>", e.g. *The Learning Dojo: Animals, Volume 1*.
 - Author: **Swan Moon**, on every cover, title page and
