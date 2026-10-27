@@ -47,3 +47,19 @@ sticker sheet as the style reference.
   (ペンギン, コアラ, ライオン, フラミンゴ, アライグマ).
 - Hanja/Chinese: the modern Chinese word in traditional characters, which is
   also the form Korean hanja uses (貓, 企鵝, 無尾熊, 貓頭鷹).
+
+## Marine Life: East Asian theme (Swan, 2026-10-27)
+
+Same kawaii line-art animal as Volume 1, with East Asian decorations around it:
+simple Hokusai-style curling waves, a band of seigaiha wave-scale pattern on the
+sea floor, auspicious swirl clouds (Korean and Chinese cloud motif) and floating
+cherry blossom petals, plus bubbles, shells and tiny smiling fish. Add one
+animal-specific touch where it fits (an octopus pot for the octopus, a full moon
+for the sea otter).
+
+- Model: nano-banana-lite via Moda, 3:4, about 10 credits per page on the free
+  plan. Style reference: an export of the Volume 1 turtle page.
+- Pages are built in Moda first (art frame, four tags, page number, same sizes
+  as Volume 1), then the art is generated into the frame. Moda refuses to
+  generate into an empty canvas.
+- Test pages approved by Swan: shark, octopus, sea otter, clownfish.
