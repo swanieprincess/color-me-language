@@ -6,8 +6,12 @@ things: **what the name means** in Korean, Japanese and Chinese, and **why the
 animal matters** in those cultures (food, holidays, folktales, sayings, famous
 places). No random nature trivia.
 
-Layout plan: **4 intro pages, 13 facts each**, in book order, plus the
-"pieces to spot" key at the top of the first page. Keep the intro an **even**
+Layout plan: each fact starts with a **small icon of that animal**, a
+shrunk-down copy of its coloring-page line art (Swan, 2026-10-27), so kids can
+match the fact to the page and color the icons too. Facts in book order, with
+the "pieces to spot" key at the top of the first page. With icons and two
+sentences per fact, plan on **6 intro pages of about 9 facts each** (4 pages
+would be crowded); confirm once the first page is laid out. Keep the intro an **even**
 number of pages so the three facing pairs (clownfish / sea anemone, hermit
 crab / turban shell, sea otter / kelp) stay left and right.
 

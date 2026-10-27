@@ -30,8 +30,10 @@
 
 ## Did you know? introduction
 
-The cultural facts go in an introductory section at the front of the book, not
-on the animal pages (Swan, 2026-10-27). Draft: [did-you-know.md](did-you-know.md).
+The facts go in an introductory section at the front of the book, not on the
+animal pages (Swan, 2026-10-27). Each fact mixes what the name means with why
+the animal matters culturally, and starts with a small icon of the animal taken
+from its coloring page. Draft: [did-you-know.md](did-you-know.md).
 Keep it an even number of pages so the facing pairs stay left and right.
 
 ## Rules
