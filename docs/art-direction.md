@@ -69,8 +69,12 @@ for the sea otter).
   the sky and the waterline.
 - **No wave lines underwater** (Swan, 2026-10-27: "there doesn't need to be
   waves underneath him"). Waves belong at the waterline only. Below it: plain
-  water with bubbles, seaweed, rocks and little fish, plus the seigaiha band on
-  the sea floor.
+  water with bubbles, seaweed, rocks and little fish.
+- **No wave pattern on the sea floor** (Swan, 2026-10-27, croaker and anchovy).
+  The bottom is sand, rocks, shells and seaweed; the seigaiha wave-scale band
+  is not used.
+- Small fixes are free: a white rectangle placed over the art in Moda (behind
+  the name tags) hides a stray cloud or band without spending credits.
 - Pollock page: two wavy current lines under the fish are still in the art.
   Erase them for free in the print clean-up (white them out before tracing)
   rather than spending more credits.
