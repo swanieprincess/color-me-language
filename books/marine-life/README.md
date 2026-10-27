@@ -15,28 +15,33 @@
 
 ## Make-up (52)
 
-- Fish (16): shark, whale shark, tuna, salmon, mackerel, anchovy, cod,
-  cutlassfish, flounder, pufferfish, sunfish, seahorse, flying fish, eel,
-  anglerfish, stingray.
+- Fish (18): shark, whale shark, tuna, salmon, mackerel, anchovy, cod,
+  pollock, yellow croaker, cutlassfish, flounder, pufferfish, sunfish,
+  seahorse, flying fish, eel, anglerfish, stingray.
 - Reef (3): coral, clownfish, sea anemone.
 - Soft sea life (7): octopus, long-arm octopus, squid, cuttlefish, jellyfish,
   starfish, sea urchin.
 - Shells & claws (10): abalone, hermit crab, turban shell, blue crab, snow
   crab, shrimp, clam, oyster, scallop, nautilus.
-- Whales & dolphins (5): dolphin, orca, beluga, humpback whale, blue whale.
-- Shore & sea (8): sea turtle, spotted seal, fur seal, sea lion, walrus,
-  polar bear, sea otter, seagull.
+- Whales & dolphins (4): dolphin, orca, humpback whale, blue whale.
+- Shore & sea (7): sea turtle, spotted seal, sea lion, walrus, polar bear,
+  sea otter, seagull.
 - Seaweed (3): kelp, wakame, nori.
 
 ## Rules
+
+- Every page is hand-picked for cultural meaning in Korea, Japan or China
+  (Swan, 2026-10-27): a dish, a festival, a folktale, a saying or a famous
+  place. Pollock 명태 and yellow croaker 조기 replaced beluga and fur seal for
+  this; polar bear and sea lion kept at Swan's request.
 
 - A real name in all four languages, no English sounded out in hangeul or
   katakana (so no lobster: Japanese only has ロブスター).
 - Familiar to Korean kids, with a few Korean favourites kept on purpose
   (멸치, 고등어, 김).
 - No animal in more than one book.
-- Three facing pairs: clownfish (18) / sea anemone (19), hermit crab (28) /
-  turban shell (29), sea otter (48) / kelp (49). Keep the left one on an even
+- Three facing pairs: clownfish (20) / sea anemone (21), hermit crab (30) /
+  turban shell (31), sea otter (48) / kelp (49). Keep the left one on an even
   number if the order changes.
 
 Words to double-check are marked in the `check` column of pages.csv.

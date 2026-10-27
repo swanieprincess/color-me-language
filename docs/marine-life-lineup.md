@@ -24,43 +24,43 @@ turtle and the polar bear here.
 | 5 | Mackerel | 고등어 | さば | 鯖魚 | fish |
 | 6 | Anchovy | 멸치 | かたくちいわし | 鯷魚 | fish |
 | 7 | Cod | 대구 | たら | 鱈魚 | fish |
-| 8 | Cutlassfish | 갈치 | たちうお | 帶魚 | fish |
-| 9 | Flounder | 광어 | ひらめ | 比目魚 | fish |
-| 10 | Pufferfish | 복어 | ふぐ | 河豚 | fish |
-| 11 | Sunfish | 개복치 | マンボウ | 翻車魚 | fish |
-| 12 | Seahorse | 해마 | タツノオトシゴ | 海馬 | fish |
-| 13 | Flying Fish | 날치 | トビウオ | 飛魚 | fish |
-| 14 | Eel | 장어 | うなぎ | 鰻魚 | fish |
-| 15 | Anglerfish | 아귀 | アンコウ | 鮟鱇 | fish |
-| 16 | Stingray | 가오리 | えい | 魟魚 | fish |
-| 17 | Coral | 산호 | さんご | 珊瑚 | reef |
-| 18 | Clownfish | 흰동가리 | クマノミ | 小丑魚 | reef |
-| 19 | Sea Anemone | 말미잘 | いそぎんちゃく | 海葵 | reef |
-| 20 | Octopus | 문어 | たこ | 章魚 | soft sea life |
-| 21 | Long-arm Octopus | 낙지 | テナガダコ | 長蛸 | soft sea life |
-| 22 | Squid | 오징어 | いか | 魷魚 | soft sea life |
-| 23 | Cuttlefish | 갑오징어 | こういか | 墨魚 | soft sea life |
-| 24 | Jellyfish | 해파리 | くらげ | 水母 | soft sea life |
-| 25 | Starfish | 불가사리 | ひとで | 海星 | soft sea life |
-| 26 | Sea Urchin | 성게 | うに | 海膽 | soft sea life |
-| 27 | Abalone | 전복 | あわび | 鮑魚 | shells & claws |
-| 28 | Hermit Crab | 소라게 | ヤドカリ | 寄居蟹 | shells & claws |
-| 29 | Turban Shell | 소라 | さざえ | 蠑螺 | shells & claws |
-| 30 | Blue Crab | 꽃게 | ガザミ | 梭子蟹 | shells & claws |
-| 31 | Snow Crab | 대게 | ズワイガニ | 雪蟹 | shells & claws |
-| 32 | Shrimp | 새우 | えび | 蝦 | shells & claws |
-| 33 | Clam | 바지락 | あさり | 花蛤 | shells & claws |
-| 34 | Oyster | 굴 | かき | 牡蠣 | shells & claws |
-| 35 | Scallop | 가리비 | ほたて | 扇貝 | shells & claws |
-| 36 | Nautilus | 앵무조개 | オウムガイ | 鸚鵡螺 | shells & claws |
-| 37 | Sea Turtle | 바다거북 | ウミガメ | 海龜 | shore & sea |
-| 38 | Dolphin | 돌고래 | イルカ | 海豚 | whales & dolphins |
-| 39 | Orca | 범고래 | シャチ | 虎鯨 | whales & dolphins |
-| 40 | Beluga | 흰고래 | シロイルカ | 白鯨 | whales & dolphins |
-| 41 | Humpback Whale | 혹등고래 | ザトウクジラ | 座頭鯨 | whales & dolphins |
-| 42 | Blue Whale | 대왕고래 | シロナガスクジラ | 藍鯨 | whales & dolphins |
-| 43 | Spotted Seal | 점박이물범 | ゴマフアザラシ | 斑海豹 | shore & sea |
-| 44 | Fur Seal | 물개 | オットセイ | 海狗 | shore & sea |
+| 8 | Pollock | 명태 | すけとうだら | 明太魚 | fish |
+| 9 | Yellow Croaker | 조기 | キグチ | 黃魚 | fish |
+| 10 | Cutlassfish | 갈치 | たちうお | 帶魚 | fish |
+| 11 | Flounder | 광어 | ひらめ | 比目魚 | fish |
+| 12 | Pufferfish | 복어 | ふぐ | 河豚 | fish |
+| 13 | Sunfish | 개복치 | マンボウ | 翻車魚 | fish |
+| 14 | Seahorse | 해마 | タツノオトシゴ | 海馬 | fish |
+| 15 | Flying Fish | 날치 | トビウオ | 飛魚 | fish |
+| 16 | Eel | 장어 | うなぎ | 鰻魚 | fish |
+| 17 | Anglerfish | 아귀 | アンコウ | 鮟鱇 | fish |
+| 18 | Stingray | 가오리 | えい | 魟魚 | fish |
+| 19 | Coral | 산호 | さんご | 珊瑚 | reef |
+| 20 | Clownfish | 흰동가리 | クマノミ | 小丑魚 | reef |
+| 21 | Sea Anemone | 말미잘 | いそぎんちゃく | 海葵 | reef |
+| 22 | Octopus | 문어 | たこ | 章魚 | soft sea life |
+| 23 | Long-arm Octopus | 낙지 | テナガダコ | 長蛸 | soft sea life |
+| 24 | Squid | 오징어 | いか | 魷魚 | soft sea life |
+| 25 | Cuttlefish | 갑오징어 | こういか | 墨魚 | soft sea life |
+| 26 | Jellyfish | 해파리 | くらげ | 水母 | soft sea life |
+| 27 | Starfish | 불가사리 | ひとで | 海星 | soft sea life |
+| 28 | Sea Urchin | 성게 | うに | 海膽 | soft sea life |
+| 29 | Abalone | 전복 | あわび | 鮑魚 | shells & claws |
+| 30 | Hermit Crab | 소라게 | ヤドカリ | 寄居蟹 | shells & claws |
+| 31 | Turban Shell | 소라 | さざえ | 蠑螺 | shells & claws |
+| 32 | Blue Crab | 꽃게 | ガザミ | 梭子蟹 | shells & claws |
+| 33 | Snow Crab | 대게 | ズワイガニ | 雪蟹 | shells & claws |
+| 34 | Shrimp | 새우 | えび | 蝦 | shells & claws |
+| 35 | Clam | 바지락 | あさり | 花蛤 | shells & claws |
+| 36 | Oyster | 굴 | かき | 牡蠣 | shells & claws |
+| 37 | Scallop | 가리비 | ほたて | 扇貝 | shells & claws |
+| 38 | Nautilus | 앵무조개 | オウムガイ | 鸚鵡螺 | shells & claws |
+| 39 | Sea Turtle | 바다거북 | ウミガメ | 海龜 | shore & sea |
+| 40 | Dolphin | 돌고래 | イルカ | 海豚 | whales & dolphins |
+| 41 | Orca | 범고래 | シャチ | 虎鯨 | whales & dolphins |
+| 42 | Humpback Whale | 혹등고래 | ザトウクジラ | 座頭鯨 | whales & dolphins |
+| 43 | Blue Whale | 대왕고래 | シロナガスクジラ | 藍鯨 | whales & dolphins |
+| 44 | Spotted Seal | 점박이물범 | ゴマフアザラシ | 斑海豹 | shore & sea |
 | 45 | Sea Lion | 바다사자 | アシカ | 海獅 | shore & sea |
 | 46 | Walrus | 바다코끼리 | セイウチ | 海象 | shore & sea |
 | 47 | Polar Bear | 북극곰 | ホッキョクグマ | 北極熊 | shore & sea |
@@ -70,20 +70,23 @@ turtle and the polar bear here.
 | 51 | Wakame | 미역 | わかめ | 裙帶菜 | seaweed |
 | 52 | Nori | 김 | のり | 紫菜 | seaweed |
 
-Facing pairs (left page, right page): Clownfish (18) / Sea Anemone (19); Hermit Crab (28) / Turban Shell (29); Sea Otter (48) / Kelp (49).
+Facing pairs (left page, right page): Clownfish (20) / Sea Anemone (21); Hermit Crab (30) / Turban Shell (31); Sea Otter (48) / Kelp (49).
 Keep the left one on an even number if the order changes.
 
 ## How the 52 were picked
 
-- Kept from Under the Sea, Volume 1 (21) and Volume 2 (24).
-- New (7): shark 상어, whale shark 고래상어, sunfish 개복치, stingray 가오리, clownfish 흰동가리, fur seal 물개, polar bear 북극곰.
+- Kept from Under the Sea, Volume 1 (23) and Volume 2 (23).
+- New (6): shark 상어, whale shark 고래상어, sunfish 개복치, stingray 가오리, clownfish 흰동가리, polar bear 북극곰.
 - Swan's picks kept: cod, anglerfish, nautilus, walrus, sea otter. Korean
   favourites kept: 멸치 anchovy, 고등어 mackerel, 갈치 cutlassfish, 낙지, 전복, 미역, 김.
+- Every page is hand-picked for cultural meaning in Korea, Japan or China
+  (Swan, 2026-10-27). Pollock 명태 and yellow croaker 조기 replaced beluga and
+  fur seal, which had little; polar bear and sea lion kept (Swan).
 
 ## Not used (available if more pages are wanted)
 
-- From Volume 1 (11): mullet 숭어, agar seaweed 우뭇가사리, filefish 쥐치, flying fish roe 날치알, sea bass 농어, mudskipper 짱뚱어, herring 청어, yellow croaker 조기, pollock 명태, saury 꽁치, sea bream 도미.
-- From Volume 2 (8): finless porpoise 상괭이, gray whale 귀신고래, cockle 꼬막, mantis shrimp 갯가재, big prawn 대하, mussel 홍합, sea cucumber 해삼, sea squirt 멍게.
+- From Volume 1 (9): mullet 숭어, agar seaweed 우뭇가사리, filefish 쥐치, flying fish roe 날치알, sea bass 농어, mudskipper 짱뚱어, herring 청어, saury 꽁치, sea bream 도미.
+- From Volume 2 (9): finless porpoise 상괭이, beluga 흰고래, gray whale 귀신고래, cockle 꼬막, mantis shrimp 갯가재, big prawn 대하, mussel 홍합, sea cucumber 해삼, sea squirt 멍게.
 - Lobster would be familiar, but Japanese only has ロブスター (English sounded out).
 
 ## Left out on purpose (from the Under the Sea planning)
