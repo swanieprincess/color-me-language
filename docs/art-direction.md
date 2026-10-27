@@ -63,3 +63,7 @@ for the sea otter).
   as Volume 1), then the art is generated into the frame. Moda refuses to
   generate into an empty canvas.
 - Test pages approved by Swan: shark, octopus, sea otter, clownfish.
+- **Clouds only in the sky** (Swan, 2026-10-27: "why are there clouds in the
+  water"). Swirl clouds go above the waterline, never underwater. Underwater
+  scenes use bubbles, seaweed and swirling water currents instead, and a page
+  with clouds must show the sky and the waterline.
