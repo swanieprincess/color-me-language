@@ -15,7 +15,7 @@ Explicitly excluded from this book because they are sea animals: dolphin,
 crab, octopus, shark, whale, seal, sea turtle, fish, jellyfish, starfish.
 Published on Amazon (2026-10).
 
-## 2. Marine Life — word list drafted
+## 2. Marine Life — word list approved
 
 One book of 52 animal pages (Swan, 2026-10-25: at least 50 pages, ocean and
 shore only), replacing the two planned Under the Sea volumes. Renamed because

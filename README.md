@@ -20,7 +20,7 @@ as print-ready PDFs for Amazon KDP.
 | # | Title | Status | Pages |
 |---|-------|--------|-------|
 | 1 | The Learning Dojo: Animals, Volume 1 | published on Amazon | 34 |
-| 2 | The Learning Dojo: Marine Life | word list drafted ([books/marine-life](books/marine-life/README.md)) | 54 |
+| 2 | The Learning Dojo: Marine Life | word list approved ([books/marine-life](books/marine-life/README.md)) | 54 |
 | 3 | Insects | planned | — |
 
 See [docs/series-plan.md](docs/series-plan.md) for scope rules and candidate

@@ -1,7 +1,7 @@
 # The Learning Dojo: Marine Life
 
 - Author: **Swan Moon**. Series: The Learning Dojo, book 2.
-- Status: **word list drafted**. Art not started.
+- Status: **word list approved by Swan (2026-10-27)**. Art not started.
 - One book of **52 animal pages** (54 pages with the title and copyright
   pages), replacing the two planned Under the Sea volumes. Swan, 2026-10-25:
   one book, at least 50 pages, ocean and shore only. Renamed from "Under the
