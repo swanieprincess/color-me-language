@@ -60,9 +60,10 @@ Chinese.
 8. **Pollock 명태 · すけとうだら · 明太魚:** All three languages use 明太 because of
    the Korean name 명태. It's Korea's favorite fish, with a different name when
    it's fresh, frozen, dried or little: 생태, 동태, 황태, 노가리!
-9. **Yellow Croaker 조기 · キグチ · 黃魚:** Chinese calls it "yellow fish," and ⚑
-   Japanese キグチ starts with き, "yellow," too. Dried 굴비 is a special gift
-   Korean families give at Chuseok.
+9. **Hammerhead Shark 귀상어 · シュモクザメ · 雙髻鯊:** Korean says "ear shark,"
+   because its head looks like two big ears. ⚑ Japanese シュモク is the T-shaped
+   wooden hammer that rings a temple bell, and Chinese says "two-bun shark,"
+   like hair tied up in two buns!
 10. **Cutlassfish 갈치 · たちうお · 帶魚:** Three languages, three ideas! Korean 갈치
     comes from 칼, "knife." Japanese says "sword fish," and Chinese says "belt
     fish." It's long, thin and shiny like silver.

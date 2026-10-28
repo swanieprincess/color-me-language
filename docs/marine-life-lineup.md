@@ -25,7 +25,7 @@ turtle and the polar bear here.
 | 6 | Anchovy | 멸치 | かたくちいわし | 鯷魚 | fish |
 | 7 | Cod | 대구 | たら | 鱈魚 | fish |
 | 8 | Pollock | 명태 | すけとうだら | 明太魚 | fish |
-| 9 | Yellow Croaker | 조기 | キグチ | 黃魚 | fish |
+| 9 | Hammerhead Shark | 귀상어 | シュモクザメ | 雙髻鯊 | fish |
 | 10 | Cutlassfish | 갈치 | たちうお | 帶魚 | fish |
 | 11 | Flounder | 광어 | ひらめ | 比目魚 | fish |
 | 12 | Pufferfish | 복어 | ふぐ | 河豚 | fish |
@@ -82,6 +82,7 @@ Keep the left one on an even number if the order changes.
 - Every page is hand-picked for cultural meaning in Korea, Japan or China
   (Swan, 2026-10-27). Pollock 명태 and yellow croaker 조기 replaced beluga and
   fur seal, which had little; polar bear and sea lion kept (Swan).
+- Hammerhead shark 귀상어 replaced yellow croaker 조기 (Swan, 2026-10-28).
 
 ## Not used (available if more pages are wanted)
 
@@ -98,7 +99,7 @@ Keep the left one on an even number if the order changes.
 - Not familiar to Korean kids / dropped from Volume 1: butterflyfish,
   parrotfish, moray eel, swordfish, stingray (replaced by sea bass), grouper
   (no single Korean name), sailfish, barracuda, sardine, manta ray,
-  hammerhead shark, sawfish, remora, lionfish, boxfish, porcupinefish,
+  sawfish, remora, lionfish, boxfish, porcupinefish,
   yellowtail, sand dollar; seaweeds hijiki, sea lettuce, seagrass.
 - Already in Animals, Volume 1: penguin, swan, duck (sea turtle and polar bear
   are different animals from the garden tortoise and the bear there).

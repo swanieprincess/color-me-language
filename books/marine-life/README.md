@@ -16,7 +16,7 @@
 ## Make-up (52)
 
 - Fish (18): shark, whale shark, tuna, salmon, mackerel, anchovy, cod,
-  pollock, yellow croaker, cutlassfish, flounder, pufferfish, sunfish,
+  pollock, hammerhead shark, cutlassfish, flounder, pufferfish, sunfish,
   seahorse, flying fish, eel, anglerfish, stingray.
 - Reef (3): coral, clownfish, sea anemone.
 - Soft sea life (7): octopus, long-arm octopus, squid, cuttlefish, jellyfish,
@@ -41,7 +41,8 @@ Keep it an even number of pages so the facing pairs stay left and right.
 - Every page is hand-picked for cultural meaning in Korea, Japan or China
   (Swan, 2026-10-27): a dish, a festival, a folktale, a saying or a famous
   place. Pollock 명태 and yellow croaker 조기 replaced beluga and fur seal for
-  this; polar bear and sea lion kept at Swan's request.
+  this; polar bear and sea lion kept at Swan's request. Hammerhead shark
+  귀상어 later replaced yellow croaker (Swan, 2026-10-28).
 
 - A real name in all four languages, no English sounded out in hangeul or
   katakana (so no lobster: Japanese only has ロブスター).

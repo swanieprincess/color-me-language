@@ -18,7 +18,7 @@ rough guide to the sound.
 | 6 | Anchovy | **멸치** | myeolchi | anchovy (멸치볶음, soup stock) | ☐ |  |
 | 7 | Cod | **대구** | daegu | "big mouth"; cod | ☐ |  |
 | 8 | Pollock | **명태** | myeongtae | pollock; its roe is 명란 | ☐ |  |
-| 9 | Yellow Croaker | **조기** | jogi | yellow croaker; dried = 굴비 | ☐ |  |
+| 9 | Hammerhead Shark | **귀상어** | gwisangeo | "ear shark" (the hammer looks like ears) | ☐ |  |
 | 10 | Cutlassfish | **갈치** | galchi | from 칼 "knife": a knife-shaped fish | ☐ |  |
 | 11 | Flounder | **광어** | gwangeo | "wide fish"; flounder | ☐ |  |
 | 12 | Pufferfish | **복어** | bogeo | "blow-up fish" | ☐ |  |
