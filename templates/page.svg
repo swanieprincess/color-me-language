@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Color Me Language page template for Inkscape.
+     US Letter 8.5 x 11 in. Units: px at 96 dpi (816 x 1056). Same geometry as the Moda template. -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="8.5in" height="11in" viewBox="0 0 816 1056">
+  <g inkscape:groupmode="layer" inkscape:label="Frame">
+    <rect x="48" y="48" width="720" height="960" rx="28" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Art">
+    <!-- paste the traced line art here; keep it inside x 48..768, y 48..1008 -->
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Tags">
+    <rect x="36" y="36" width="300" height="112" rx="26" ry="26" fill="#ffffff" stroke="#111111" stroke-width="4"/>
+    <rect x="480" y="36" width="300" height="112" rx="26" ry="26" fill="#ffffff" stroke="#111111" stroke-width="4"/>
+    <rect x="36" y="908" width="300" height="112" rx="26" ry="26" fill="#ffffff" stroke="#111111" stroke-width="4"/>
+    <rect x="480" y="908" width="300" height="112" rx="26" ry="26" fill="#ffffff" stroke="#111111" stroke-width="4"/>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Words" font-weight="700" text-anchor="middle">
+    <text x="186" y="62" font-family="Fredoka" font-size="12" letter-spacing="2" fill="#666666">ENGLISH</text>
+    <text x="186" y="118" font-family="Fredoka" font-size="60" font-weight="600" fill="#ffffff" stroke="#111111" stroke-width="2.5" paint-order="stroke fill">Cat</text>
+    <text x="630" y="62" font-family="Fredoka" font-size="12" letter-spacing="2" fill="#666666">KOREAN</text>
+    <text x="630" y="118" font-family="Noto Sans KR" font-size="58" fill="#ffffff" stroke="#111111" stroke-width="2.5" paint-order="stroke fill">고양이</text>
+    <text x="186" y="934" font-family="Fredoka" font-size="12" letter-spacing="2" fill="#666666">JAPANESE</text>
+    <text x="186" y="990" font-family="Noto Sans JP" font-size="56" fill="#ffffff" stroke="#111111" stroke-width="2.5" paint-order="stroke fill">ねこ</text>
+    <text x="630" y="934" font-family="Fredoka" font-size="12" letter-spacing="2" fill="#666666">HANJA/CHINESE</text>
+    <text x="630" y="992" font-family="Noto Sans TC" font-size="62" fill="#ffffff" stroke="#111111" stroke-width="2.5" paint-order="stroke fill">貓</text>
+    <text x="408" y="1040" font-family="Fredoka" font-size="13" font-weight="600" fill="#888888">1</text>
+  </g>
+</svg>
