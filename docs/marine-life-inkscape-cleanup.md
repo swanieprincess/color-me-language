@@ -1,6 +1,6 @@
 # Marine Life: Inkscape cleanup list
 
-All AI redraws are finished (checked page by page, 2026-10-29). What is left is
+All AI redraws are finished (checked page by page, 2026-10-29; shrimp eyes, coral page and hammerhead icon redone the same day). What is left is
 small hand cleanup in Inkscape before tracing and print.
 
 ## Animal pages
@@ -21,7 +21,6 @@ small hand cleanup in Inkscape before tracing and print.
 | Icon | Fix |
 |---|---|
 | 3 Tuna | Stray marks under the fish; erase. |
-| 9 Hammerhead Shark | Background bits (fish, coral) under the shark; erase. |
 
 Everything else passed the check: one pair of eyes, clouds only in the sky,
 waves only at the waterline, black-and-white line art.
