@@ -22,7 +22,7 @@ rough guide to the sound.
 | 10 | Cutlassfish | **갈치** | galchi | from 칼 "knife": a knife-shaped fish | ☐ |  |
 | 11 | Flounder | **광어** | gwangeo | "wide fish"; flounder | ☐ |  |
 | 12 | Pufferfish | **복어** | bogeo | "blow-up fish" | ☐ |  |
-| 13 | Sunfish | **개복치** | gaebokchi | ocean sunfish; also slang for someone easily hurt | ☐ |  |
+| 13 | Grouper | **다금바리** | dageumbari | grouper; the prized Jeju name (also 능성어, 자바리) | ☐ |  |
 | 14 | Seahorse | **해마** | haema | "sea horse" | ☐ |  |
 | 15 | Flying Fish | **날치** | nalchi | "flying fish" | ☐ |  |
 | 16 | Eel | **장어** | jangeo | "long fish"; eel | ☐ |  |
@@ -40,7 +40,7 @@ rough guide to the sound.
 | 28 | Sea Urchin | **성게** | seongge | sea urchin (성게미역국) | ☐ |  |
 | 29 | Abalone | **전복** | jeonbok | abalone (전복죽 porridge) | ☐ |  |
 | 30 | Hermit Crab | **소라게** | sorage | "shell crab"; hermit crab | ☐ |  |
-| 31 | Turban Shell | **소라** | sora | turban shell / conch | ☐ |  |
+| 31 | Conch | **소라고둥** | soragodung | conch / trumpet shell (horn: 나각) | ☐ |  |
 | 32 | Blue Crab | **꽃게** | kkotge | "flower crab"; blue crab | ☐ |  |
 | 33 | Snow Crab | **대게** | daege | "bamboo crab" (bamboo-like legs); snow crab | ☐ |  |
 | 34 | Shrimp | **새우** | saeu | shrimp | ☐ |  |

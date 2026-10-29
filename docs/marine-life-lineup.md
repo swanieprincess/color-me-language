@@ -29,7 +29,7 @@ turtle and the polar bear here.
 | 10 | Cutlassfish | 갈치 | たちうお | 帶魚 | fish |
 | 11 | Flounder | 광어 | ひらめ | 比目魚 | fish |
 | 12 | Pufferfish | 복어 | ふぐ | 河豚 | fish |
-| 13 | Sunfish | 개복치 | マンボウ | 翻車魚 | fish |
+| 13 | Grouper | 다금바리 | ハタ | 石斑魚 | fish |
 | 14 | Seahorse | 해마 | タツノオトシゴ | 海馬 | fish |
 | 15 | Flying Fish | 날치 | トビウオ | 飛魚 | fish |
 | 16 | Eel | 장어 | うなぎ | 鰻魚 | fish |
@@ -47,7 +47,7 @@ turtle and the polar bear here.
 | 28 | Sea Urchin | 성게 | うに | 海膽 | soft sea life |
 | 29 | Abalone | 전복 | あわび | 鮑魚 | shells & claws |
 | 30 | Hermit Crab | 소라게 | ヤドカリ | 寄居蟹 | shells & claws |
-| 31 | Turban Shell | 소라 | さざえ | 蠑螺 | shells & claws |
+| 31 | Conch | 소라고둥 | ホラガイ | 法螺 | shells & claws |
 | 32 | Blue Crab | 꽃게 | ガザミ | 梭子蟹 | shells & claws |
 | 33 | Snow Crab | 대게 | ズワイガニ | 雪蟹 | shells & claws |
 | 34 | Shrimp | 새우 | えび | 蝦 | shells & claws |
@@ -70,7 +70,7 @@ turtle and the polar bear here.
 | 51 | Wakame | 미역 | わかめ | 裙帶菜 | seaweed |
 | 52 | Nori | 김 | のり | 紫菜 | seaweed |
 
-Facing pairs (left page, right page): Clownfish (20) / Sea Anemone (21); Hermit Crab (30) / Turban Shell (31); Sea Otter (48) / Kelp (49).
+Facing pairs (left page, right page): Clownfish (20) / Sea Anemone (21); Hermit Crab (30) / Conch (31); Sea Otter (48) / Kelp (49).
 Keep the left one on an even number if the order changes.
 
 ## How the 52 were picked

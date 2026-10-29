@@ -12,16 +12,23 @@
   Hanja/Chinese in traditional characters), outline lettering to color.
 - Full lineup, cut list and overlap check: [docs/marine-life-lineup.md](../../docs/marine-life-lineup.md).
   Korean check for a native speaker: [docs/korean-review-sheet.md](../../docs/korean-review-sheet.md).
+- Cover: `art/raw/cover/marine-life-cover.svg` (in the encrypted art vault), the KDP full wrap built from the Volume 1
+  cover ("Marine Life · Volume 2", dolphin sample tags, "Meet 52 cute sea
+  animals!", light baby-blue sky with bubbles instead of stars, Swan 2026-10-29). The front has an empty dashed frame (186 × 92 mm) for Swan's
+  colored sea-animal drawing (Swan, 2026-10-29: she draws it). Spine sized for
+  60 pages (title, copyright, 6 "Did you know?" pages, 52 animals); re-run
+  KDP's cover calculator if the count changes. Delete the GUIDES and ART FRAME
+  layers before export.
 
 ## Make-up (52)
 
 - Fish (18): shark, whale shark, tuna, salmon, mackerel, anchovy, cod,
-  pollock, hammerhead shark, cutlassfish, flounder, pufferfish, sunfish,
+  pollock, hammerhead shark, cutlassfish, flounder, pufferfish, grouper,
   seahorse, flying fish, eel, anglerfish, stingray.
 - Reef (3): coral, clownfish, sea anemone.
 - Soft sea life (7): octopus, long-arm octopus, squid, cuttlefish, jellyfish,
   starfish, sea urchin.
-- Shells & claws (10): abalone, hermit crab, turban shell, blue crab, snow
+- Shells & claws (10): abalone, hermit crab, conch, blue crab, snow
   crab, shrimp, clam, oyster, scallop, nautilus.
 - Whales & dolphins (4): dolphin, orca, humpback whale, blue whale.
 - Shore & sea (7): sea turtle, spotted seal, sea lion, walrus, polar bear,
@@ -42,7 +49,8 @@ Keep it an even number of pages so the facing pairs stay left and right.
   (Swan, 2026-10-27): a dish, a festival, a folktale, a saying or a famous
   place. Pollock 명태 and yellow croaker 조기 replaced beluga and fur seal for
   this; polar bear and sea lion kept at Swan's request. Hammerhead shark
-  귀상어 later replaced yellow croaker (Swan, 2026-10-28).
+  귀상어 later replaced yellow croaker (Swan, 2026-10-28). Grouper 다금바리 and
+  conch 소라고둥 replaced sunfish and turban shell (Swan, 2026-10-29).
 
 - A real name in all four languages, no English sounded out in hangeul or
   katakana (so no lobster: Japanese only has ロブスター).
@@ -50,7 +58,7 @@ Keep it an even number of pages so the facing pairs stay left and right.
   (멸치, 고등어, 김).
 - No animal in more than one book.
 - Three facing pairs: clownfish (20) / sea anemone (21), hermit crab (30) /
-  turban shell (31), sea otter (48) / kelp (49). Keep the left one on an even
+  conch (31), sea otter (48) / kelp (49). Keep the left one on an even
   number if the order changes.
 
 Words to double-check are marked in the `check` column of pages.csv.

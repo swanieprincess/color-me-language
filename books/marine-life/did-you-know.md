@@ -14,7 +14,7 @@ the "pieces to spot" key at the top of the first page. With icons and two
 sentences per fact, plan on **6 intro pages of about 9 facts each** (4 pages
 would be crowded); confirm once the first page is laid out. Keep the intro an **even**
 number of pages so the three facing pairs (clownfish / sea anemone, hermit
-crab / turban shell, sea otter / kelp) stay left and right.
+crab / conch, sea otter / kelp) stay left and right.
 
 Facts marked ⚑ should be double-checked before printing.
 
@@ -73,8 +73,10 @@ Chinese.
 12. **Pufferfish 복어 · ふぐ · 河豚:** Japanese and Chinese both write it 河豚,
     "river pig," because it puffs up round like a little pig. In Japan, only
     specially trained chefs are allowed to cook it.
-13. **Sunfish 개복치 · マンボウ · 翻車魚:** 개복치 has 복 in it, like 복어, because
-    they're cousins! Japanese and Chinese write it 翻車魚, "flipped-cart fish."
+13. **Grouper 다금바리 · ハタ · 石斑魚:** Chinese 石斑 means "rock spots," for the
+    spotty fish that hides among the rocks. On Jeju Island, 다금바리 is one of the
+    most prized fish of all, and in Hong Kong a steamed grouper is a special party
+    dish! ⚑
 14. **Seahorse 해마 · タツノオトシゴ · 海馬:** Korean and Chinese say "sea horse,"
     just like English. Japanese calls it the "dragon's baby"! 해마 is also the
     name of the part of your brain that helps you remember.
@@ -125,8 +127,9 @@ Chinese.
 30. **Hermit Crab 소라게 · ヤドカリ · 寄居蟹:** All three languages say it borrows a
     home! Korean says "shell crab," Japanese says "borrowing a room," and Chinese
     says "guest crab." Korean kids love finding them at the beach.
-31. **Turban Shell 소라 · さざえ · 蠑螺:** 소라 is inside 소라게, the hermit crab's
-    name! In Japan, さざえ is also the name of a famous cartoon mom, Sazae-san.
+31. **Conch 소라고둥 · ホラガイ · 法螺:** In temples, monks blow a big conch shell
+    like a trumpet! Korea's royal marching band played one too, called a 나각.
+    And when a conch moves out, a hermit crab may move in. ⚑
 32. **Blue Crab 꽃게 · ガザミ · 梭子蟹:** 꽃게 means "flower crab," and in Japanese
     it's ガザミ. Chinese names it after a pointy weaving tool. In Korea, crab in
     soy sauce is called a "rice thief" because it makes you want more rice!

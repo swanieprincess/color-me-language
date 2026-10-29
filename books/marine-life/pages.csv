@@ -11,7 +11,7 @@ page,animal,english,korean,japanese,hanja_chinese,group,trinkets,check
 10,cutlassfish,Cutlassfish,갈치,たちうお,帶魚,fish,"moonlit waves, bubbles, small fish",
 11,flounder,Flounder,광어,ひらめ,比目魚,fish,"sandy floor, shells, pebbles",
 12,pufferfish,Pufferfish,복어,ふぐ,河豚,fish,"bubbles, coral, shells, seaweed",
-13,sunfish,Sunfish,개복치,マンボウ,翻車魚,fish,"sun rays, a jellyfish snack, bubbles",
+13,grouper,Grouper,다금바리,ハタ,石斑魚,fish,"rocky reef, branching coral, bubbles",다금바리 is the Jeju name; also 능성어 / 바리과 — check
 14,seahorse,Seahorse,해마,タツノオトシゴ,海馬,fish,"seagrass, bubbles, pearls, tiny shells",
 15,flying fish,Flying Fish,날치,トビウオ,飛魚,fish,"waves, sun, clouds, spray",
 16,eel,Eel,장어,うなぎ,鰻魚,fish,"river-mouth rocks, bubbles, seaweed",
@@ -29,7 +29,7 @@ page,animal,english,korean,japanese,hanja_chinese,group,trinkets,check
 28,sea urchin,Sea Urchin,성게,うに,海膽,soft sea life,"rocks, seaweed, shells, bubbles (soft rounded spines)",
 29,abalone,Abalone,전복,あわび,鮑魚,shells & claws,"rocks, pearls, bubbles, seaweed",
 30,hermit crab,Hermit Crab,소라게,ヤドカリ,寄居蟹,shells & claws,,
-31,turban shell,Turban Shell,소라,さざえ,蠑螺,shells & claws,,
+31,conch,Conch,소라고둥,ホラガイ,法螺,shells & claws,"seagrass, sandy floor, starfish",소라고둥 vs 나팔고둥; 法螺 vs 海螺 — check
 32,blue crab,Blue Crab,꽃게,ガザミ,梭子蟹,shells & claws,,
 33,snow crab,Snow Crab,대게,ズワイガニ,雪蟹,shells & claws,,
 34,shrimp,Shrimp,새우,えび,蝦,shells & claws,,
