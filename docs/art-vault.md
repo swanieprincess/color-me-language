@@ -46,3 +46,18 @@ copy.
 `unlock` with the old one, `lock` with the new one, commit. Old commits still
 hold the old ciphertext, which only the old passphrase opens, so a leaked old
 passphrase exposes only what was in the vault at that time.
+
+## Large working files (the Inkscape SVG)
+
+The traced Inkscape file is too big for the main vault routine, and locking it
+should not need the main vault opened. It has its own encrypted file:
+
+```bash
+tools/source_vault.sh lock ~/Documents/marinelife.svg      # asks for the passphrase twice
+git add art/source/marinelife.svg.xz.age && git commit -m "Update Inkscape source" && git push
+tools/source_vault.sh unlock art/source/marinelife.svg.xz.age   # restores to ~/Documents/vault-restore/
+```
+
+It is xz-compressed first (127 MB → about 84 MB) because GitHub refuses files over
+100 MB. Use the same passphrase as the art vault. Every update adds another copy
+to git history, so lock it at milestones, not after every edit.

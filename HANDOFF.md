@@ -18,6 +18,7 @@ Last updated: 2026-11-16.
 | Grouper (13) and conch (31) swap | Done on canvas and in repo files. |
 | Review PDF | Exported from Moda 2026-10-29 and given to Swan as a signed link (not stored here). |
 | Inkscape vector cleanup | **In progress (Swan).** Pages traced to paths in `~/Documents/marinelife.svg` on her Mac. Her decorations and removals are final: never undo or "correct" them. |
+| Inkscape file backup | `tools/source_vault.sh` encrypts it to `art/source/marinelife.svg.xz.age` (xz + age passphrase). Swan runs the lock on her Mac and pushes; the clone is at `~/claude-work/color-me-language`. |
 | English words in Sandoll | **Added 2026-11-11.** New layer "English words" with 52 text objects, one per animal page (not the intro pages). Swan is deleting the old traced English words underneath herself. |
 | Cover front art | **Waiting on Swan** (she draws it). Cover template: `art/raw/cover/marine-life-cover.svg` in the vault. |
 | Korean check | **Waiting on a native speaker:** 다금바리 (13) and 소라고둥 (31). See `docs/korean-review-sheet.md`. |

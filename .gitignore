@@ -11,6 +11,7 @@ art/**/*.webp
 art/**/*.ai
 art/**/*.svg
 !art/vault.tar.age
+!art/source/*.xz.age
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
